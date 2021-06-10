@@ -1,0 +1,745 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.15 12:46+0300\n"
+"PO-Revision-Date: 2011-11-06 14:57+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: English (US)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "qtn_clk_country_afghanistan"
+msgstr "افغانستان"
+
+msgid "qtn_clk_country_albania"
+msgstr "آلبانی"
+
+msgid "qtn_clk_country_algeria"
+msgstr "الجزاير"
+
+msgid "qtn_clk_country_andorra"
+msgstr "آندورا"
+
+msgid "qtn_clk_country_angola"
+msgstr "آنگولا"
+
+msgid "qtn_clk_country_anguilla"
+msgstr "آنگویلا"
+
+msgid "qtn_clk_country_antigua_barbuda"
+msgstr "آنتیگوا و باربودا"
+
+msgid "qtn_clk_country_arab_emirates"
+msgstr "امارات متحده عربی"
+
+msgid "qtn_clk_country_argentina"
+msgstr "آرژانتین"
+
+msgid "qtn_clk_country_armenia"
+msgstr "ارمنستان"
+
+msgid "qtn_clk_country_aruba"
+msgstr "آروبا"
+
+msgid "qtn_clk_country_australia"
+msgstr "استراليا"
+
+msgid "qtn_clk_country_austria"
+msgstr "اطريش"
+
+msgid "qtn_clk_country_azerbaijan"
+msgstr "آذربایجان"
+
+msgid "qtn_clk_country_azores"
+msgstr "آزور"
+
+msgid "qtn_clk_country_bahamas"
+msgstr "باهاماس"
+
+msgid "qtn_clk_country_bahrain"
+msgstr "بحرین"
+
+msgid "qtn_clk_country_bangladesh"
+msgstr "بنگلادش"
+
+msgid "qtn_clk_country_barbados"
+msgstr "باربادوس"
+
+msgid "qtn_clk_country_belarus"
+msgstr "بلاروس"
+
+msgid "qtn_clk_country_belgium"
+msgstr "بلژیک"
+
+msgid "qtn_clk_country_belize"
+msgstr "بلیز"
+
+msgid "qtn_clk_country_benin"
+msgstr "بنین"
+
+msgid "qtn_clk_country_bermuda"
+msgstr "برمودا"
+
+msgid "qtn_clk_country_bhutan"
+msgstr "بوتان"
+
+msgid "qtn_clk_country_biot"
+msgstr "مستعمرات انگلیسی اقیانوس هند"
+
+msgid "qtn_clk_country_bolivia"
+msgstr "بولیوی"
+
+msgid "qtn_clk_country_bosnia_herz"
+msgstr "بوسنی و هرزگووین"
+
+msgid "qtn_clk_country_botswana"
+msgstr "بوتسوانا"
+
+msgid "qtn_clk_country_brazil"
+msgstr "برزیل"
+
+msgid "qtn_clk_country_brunei"
+msgstr "برونئی"
+
+msgid "qtn_clk_country_bulgaria"
+msgstr "بلغارستان"
+
+msgid "qtn_clk_country_burkina_faso"
+msgstr "بورکینافاسو"
+
+msgid "qtn_clk_country_burundi"
+msgstr "بوروندی"
+
+msgid "qtn_clk_country_bvi"
+msgstr "جزایر ویرجین بریتانیا"
+
+msgid "qtn_clk_country_cambodia"
+msgstr "کامبوج"
+
+msgid "qtn_clk_country_cameroon"
+msgstr "کامرون"
+
+msgid "qtn_clk_country_canada"
+msgstr "کانادا"
+
+msgid "qtn_clk_country_canary_islands"
+msgstr "جزایر قناری"
+
+msgid "qtn_clk_country_cap_verde"
+msgstr "کیپ ورد"
+
+msgid "qtn_clk_country_car"
+msgstr "جمهوری آفریقای مرکزی"
+
+msgid "qtn_clk_country_cayman_islands"
+msgstr "جزایر کیمن"
+
+msgid "qtn_clk_country_chad"
+msgstr "چاد"
+
+msgid "qtn_clk_country_chile"
+msgstr "شیلی"
+
+msgid "qtn_clk_country_china"
+msgstr "چین"
+
+msgid "qtn_clk_country_christmas_islands"
+msgstr "جزیره کریسمس"
+
+msgid "qtn_clk_country_cocos_islands"
+msgstr "جزایر کوکوس"
+
+msgid "qtn_clk_country_colombia"
+msgstr "کلمبیا"
+
+msgid "qtn_clk_country_comoros"
+msgstr "کومور"
+
+msgid "qtn_clk_country_cook_islands"
+msgstr "جزایر کوک"
+
+msgid "qtn_clk_country_costa_rica"
+msgstr "کاستاریکا"
+
+msgid "qtn_clk_country_cotedlvoire"
+msgstr "ساحل عاج"
+
+msgid "qtn_clk_country_croatia"
+msgstr "کرواسی"
+
+msgid "qtn_clk_country_cuba"
+msgstr "کوبا"
+
+msgid "qtn_clk_country_curacao"
+msgstr "کوراسائو"
+
+msgid "qtn_clk_country_cyprus"
+msgstr "قبرس"
+
+msgid "qtn_clk_country_czech_reb"
+msgstr "جمهوری چک"
+
+msgid "qtn_clk_country_denmark"
+msgstr "دانمارک"
+
+msgid "qtn_clk_country_djibouti"
+msgstr "جیبوتی"
+
+msgid "qtn_clk_country_dominica"
+msgstr "دومینیکا"
+
+msgid "qtn_clk_country_dominican_reb"
+msgstr "جمهوری دومنیکن"
+
+msgid "qtn_clk_country_drc"
+msgstr "جمهوری دموکراتیک کنگو"
+
+msgid "qtn_clk_country_east_timor"
+msgstr "تیمور لسته"
+
+msgid "qtn_clk_country_easter_island"
+msgstr "جزیره ایستر"
+
+msgid "qtn_clk_country_ecuador"
+msgstr "اکوآدور"
+
+msgid "qtn_clk_country_egypt"
+msgstr "مصر"
+
+msgid "qtn_clk_country_el_salvador"
+msgstr "السالوادور"
+
+msgid "qtn_clk_country_equatorial_guinea"
+msgstr "گینه استوایی"
+
+msgid "qtn_clk_country_eritrea"
+msgstr "اریتره"
+
+msgid "qtn_clk_country_estonia"
+msgstr "استونی"
+
+msgid "qtn_clk_country_ethiopia"
+msgstr "اتیوپی"
+
+msgid "qtn_clk_country_falkland"
+msgstr "فالک لند"
+
+msgid "qtn_clk_country_faroe_islands"
+msgstr "جزایر فارو"
+
+msgid "qtn_clk_country_fiji"
+msgstr "فیجی"
+
+msgid "qtn_clk_country_finland"
+msgstr "فنلاند"
+
+msgid "qtn_clk_country_france"
+msgstr "فرانسه"
+
+msgid "qtn_clk_country_french_guiana"
+msgstr "گویان فرانسه"
+
+msgid "qtn_clk_country_french_polynesia"
+msgstr "پلینزی فرانسه"
+
+msgid "qtn_clk_country_gabon"
+msgstr "گابون"
+
+msgid "qtn_clk_country_galapagos_islands"
+msgstr "گالاپاگوس"
+
+msgid "qtn_clk_country_gambia"
+msgstr "گامبیا"
+
+msgid "qtn_clk_country_georgia"
+msgstr "گرجستان "
+
+msgid "qtn_clk_country_germany"
+msgstr "آلمان"
+
+msgid "qtn_clk_country_ghana"
+msgstr "غنا"
+
+msgid "qtn_clk_country_gibraltar"
+msgstr "جبل الطارق"
+
+msgid "qtn_clk_country_greece"
+msgstr "یونان"
+
+msgid "qtn_clk_country_greenland"
+msgstr "گرینلند"
+
+msgid "qtn_clk_country_grenada"
+msgstr "گرنادا"
+
+msgid "qtn_clk_country_guadeloupe"
+msgstr "جزیره گوادلوپ"
+
+msgid "qtn_clk_country_guam"
+msgstr "گوام"
+
+msgid "qtn_clk_country_guatemala"
+msgstr "گواتمالا"
+
+msgid "qtn_clk_country_guinea"
+msgstr "گینه"
+
+msgid "qtn_clk_country_guinea_bissau"
+msgstr "گینه بی سائو"
+
+msgid "qtn_clk_country_guyana"
+msgstr "گویان"
+
+msgid "qtn_clk_country_haiti"
+msgstr "هائیتی"
+
+msgid "qtn_clk_country_honduras"
+msgstr "هندوراس"
+
+msgid "qtn_clk_country_hong_kong"
+msgstr "هنگ کنگ"
+
+msgid "qtn_clk_country_hungary"
+msgstr "مجارستان"
+
+msgid "qtn_clk_country_iceland"
+msgstr "ایسلند"
+
+msgid "qtn_clk_country_india"
+msgstr "هند"
+
+msgid "qtn_clk_country_indonesia"
+msgstr "اندونزی"
+
+msgid "qtn_clk_country_iran"
+msgstr "ایران"
+
+msgid "qtn_clk_country_iraq"
+msgstr "عراق"
+
+msgid "qtn_clk_country_ireland"
+msgstr "ایرلند"
+
+msgid "qtn_clk_country_israel"
+msgstr "اسرائیل"
+
+msgid "qtn_clk_country_italy"
+msgstr "ایتالیا"
+
+msgid "qtn_clk_country_jamaica"
+msgstr "جامائیکا"
+
+msgid "qtn_clk_country_japan"
+msgstr "ژاپن"
+
+msgid "qtn_clk_country_jerusalem"
+msgstr "اورشلیم"
+
+msgid "qtn_clk_country_jordan"
+msgstr "اردن"
+
+msgid "qtn_clk_country_kazakhstan"
+msgstr "قزاقستان"
+
+msgid "qtn_clk_country_kenya"
+msgstr "کنیا"
+
+msgid "qtn_clk_country_kerguelen"
+msgstr "کرگلن"
+
+msgid "qtn_clk_country_kiribati"
+msgstr "کیریباتی"
+
+msgid "qtn_clk_country_kuwait"
+msgstr "کویت"
+
+msgid "qtn_clk_country_kyrgyzstan"
+msgstr "قرقیزستان"
+
+msgid "qtn_clk_country_laos"
+msgstr "لائوس"
+
+msgid "qtn_clk_country_latvia"
+msgstr "لیبی"
+
+msgid "qtn_clk_country_lebanon"
+msgstr "لبنان"
+
+msgid "qtn_clk_country_lesotho"
+msgstr "لسوتو"
+
+msgid "qtn_clk_country_liberia"
+msgstr "لیبریا"
+
+msgid "qtn_clk_country_libya"
+msgstr "لیبی"
+
+msgid "qtn_clk_country_liechtenstein"
+msgstr "لیختن اشتاین"
+
+msgid "qtn_clk_country_lithuania"
+msgstr "لیتوانی"
+
+msgid "qtn_clk_country_luxembourg"
+msgstr "لوکزامبورگ"
+
+msgid "qtn_clk_country_macedonia"
+msgstr "مقدونیه"
+
+msgid "qtn_clk_country_madagascar"
+msgstr "ماداگاسکار"
+
+msgid "qtn_clk_country_madeira"
+msgstr "مادیرا"
+
+msgid "qtn_clk_country_malawi"
+msgstr "مالاوی"
+
+msgid "qtn_clk_country_malaysia"
+msgstr "مالزی"
+
+msgid "qtn_clk_country_maldives"
+msgstr "مالدیو"
+
+msgid "qtn_clk_country_mali"
+msgstr "مالی"
+
+msgid "qtn_clk_country_malta"
+msgstr "مالتا"
+
+msgid "qtn_clk_country_marquesas_island"
+msgstr "جزایر مارکین"
+
+msgid "qtn_clk_country_marshall_islands"
+msgstr "جزایر مارشال"
+
+msgid "qtn_clk_country_martinique"
+msgstr "مارتینیک"
+
+msgid "qtn_clk_country_mauritania"
+msgstr "مونتانیا"
+
+msgid "qtn_clk_country_mauritius"
+msgstr "مونتیوس"
+
+msgid "qtn_clk_country_mayotte"
+msgstr "مایوت"
+
+msgid "qtn_clk_country_mexico"
+msgstr "مکزیک"
+
+msgid "qtn_clk_country_micronesia"
+msgstr "میکرونزی"
+
+msgid "qtn_clk_country_moldova"
+msgstr "مولداوی"
+
+msgid "qtn_clk_country_monaco"
+msgstr "موناکو"
+
+msgid "qtn_clk_country_mongolia"
+msgstr "مغولستان"
+
+msgid "qtn_clk_country_montenegro"
+msgstr "مونتنگرو"
+
+msgid "qtn_clk_country_montserrat"
+msgstr "مونتسرات"
+
+msgid "qtn_clk_country_morocco"
+msgstr "مراکش"
+
+msgid "qtn_clk_country_mozambique"
+msgstr "موزامبیک"
+
+msgid "qtn_clk_country_myanmar"
+msgstr "میانمار"
+
+msgid "qtn_clk_country_n_mariana_i"
+msgstr "جزایر ماریانای شمالی"
+
+msgid "qtn_clk_country_namibia"
+msgstr "نامبی"
+
+msgid "qtn_clk_country_nauru"
+msgstr "ناورو"
+
+msgid "qtn_clk_country_nepal"
+msgstr "نپال"
+
+msgid "qtn_clk_country_netherlands"
+msgstr "هلند"
+
+msgid "qtn_clk_country_new_caledonia"
+msgstr "کالدونیای جدید"
+
+msgid "qtn_clk_country_new_zealand"
+msgstr "نیوزیلند"
+
+msgid "qtn_clk_country_nicaragua"
+msgstr "نیکاراگوئه"
+
+msgid "qtn_clk_country_niger"
+msgstr "نیجر"
+
+msgid "qtn_clk_country_nigeria"
+msgstr "نیجریه"
+
+msgid "qtn_clk_country_niue"
+msgstr "نیوئه"
+
+msgid "qtn_clk_country_norfolk_island"
+msgstr "جزیره نورفولک"
+
+msgid "qtn_clk_country_north_korea"
+msgstr "کره شمالی"
+
+msgid "qtn_clk_country_northern_ireland"
+msgstr "ایرلند شمالی"
+
+msgid "qtn_clk_country_norway"
+msgstr "نروژ"
+
+msgid "qtn_clk_country_oman"
+msgstr "عمان"
+
+msgid "qtn_clk_country_pakistan"
+msgstr "پاکستان"
+
+msgid "qtn_clk_country_palau"
+msgstr "پالائو"
+
+msgid "qtn_clk_country_panama"
+msgstr "پاناما"
+
+msgid "qtn_clk_country_papua_new_g"
+msgstr "گینه جدید پاپوآ"
+
+msgid "qtn_clk_country_paraguay"
+msgstr "پاراگوئه"
+
+msgid "qtn_clk_country_peru"
+msgstr "پرو"
+
+msgid "qtn_clk_country_philippines"
+msgstr "فیلیپین"
+
+msgid "qtn_clk_country_phoenix_islands"
+msgstr "جزایر فینیکس"
+
+msgid "qtn_clk_country_pitcairn"
+msgstr "پیتکارین"
+
+msgid "qtn_clk_country_poland"
+msgstr "لهستان"
+
+msgid "qtn_clk_country_portugal"
+msgstr "پرتغال"
+
+msgid "qtn_clk_country_puerto_rico"
+msgstr "پورتوریکو"
+
+msgid "qtn_clk_country_qatar"
+msgstr "قطر"
+
+msgid "qtn_clk_country_r_congo"
+msgstr "جمهوری کنگو"
+
+msgid "qtn_clk_country_reunion"
+msgstr "رئونیون"
+
+msgid "qtn_clk_country_romania"
+msgstr "رومانی"
+
+msgid "qtn_clk_country_russia"
+msgstr "روسیه"
+
+msgid "qtn_clk_country_rwanda"
+msgstr "رواندا"
+
+msgid "qtn_clk_country_saint_helena"
+msgstr "سنت هلن"
+
+msgid "qtn_clk_country_samoa"
+msgstr "ساموآ"
+
+msgid "qtn_clk_country_san_marino"
+msgstr "سن مارینو"
+
+msgid "qtn_clk_country_sao_tome_principe"
+msgstr "سائوتومه و پرینسیپ"
+
+msgid "qtn_clk_country_saudi_arab"
+msgstr "عربستان سعودی"
+
+msgid "qtn_clk_country_senegal"
+msgstr "سنگال"
+
+msgid "qtn_clk_country_serbia"
+msgstr "جمهوری یوگوسلاوی"
+
+msgid "qtn_clk_country_seychelles"
+msgstr "سسیل"
+
+msgid "qtn_clk_country_sierra_leone"
+msgstr "سیرالئون"
+
+msgid "qtn_clk_country_singapore"
+msgstr "سنگاپور"
+
+msgid "qtn_clk_country_slovakia"
+msgstr "اسلواکی"
+
+msgid "qtn_clk_country_slovenia"
+msgstr "اسلونی"
+
+msgid "qtn_clk_country_solomon_is"
+msgstr "جزایر سالامون"
+
+msgid "qtn_clk_country_somalia"
+msgstr "سومالی"
+
+msgid "qtn_clk_country_south_africa"
+msgstr "آفریقای جنوبی"
+
+msgid "qtn_clk_country_south_georgia"
+msgstr "جرجیای جنوبی"
+
+msgid "qtn_clk_country_south_korea"
+msgstr "کره جنوبی"
+
+msgid "qtn_clk_country_spain"
+msgstr "اسپانیا"
+
+msgid "qtn_clk_country_sri_lanka"
+msgstr "سری لانکا"
+
+msgid "qtn_clk_country_st_kitts_nevis"
+msgstr "سنت کیتس و نویس"
+
+msgid "qtn_clk_country_st_lucia"
+msgstr "سنت لوسیا"
+
+msgid "qtn_clk_country_st_pierre_miquelon"
+msgstr "سنت پیر و میکلون"
+
+msgid "qtn_clk_country_st_vincent_granadines"
+msgstr "سنت وینسنت و گرنادین"
+
+msgid "qtn_clk_country_sudan"
+msgstr "سودان"
+
+msgid "qtn_clk_country_suriname"
+msgstr "سن لوسی"
+
+msgid "qtn_clk_country_swaziland"
+msgstr "سوازیلند"
+
+msgid "qtn_clk_country_sweden"
+msgstr "سوئد"
+
+msgid "qtn_clk_country_switzerland"
+msgstr "سوئیس"
+
+msgid "qtn_clk_country_syria"
+msgstr "سوریه"
+
+msgid "qtn_clk_country_tahiti"
+msgstr "تاهیتی"
+
+msgid "qtn_clk_country_taiwan"
+msgstr "تایوان"
+
+msgid "qtn_clk_country_tajikistan"
+msgstr "تاجیکستان"
+
+msgid "qtn_clk_country_tanzania"
+msgstr "تانزانیا"
+
+msgid "qtn_clk_country_thailand"
+msgstr "تایلند"
+
+msgid "qtn_clk_country_togo"
+msgstr "توگو"
+
+msgid "qtn_clk_country_tokelau"
+msgstr "توکلائو"
+
+msgid "qtn_clk_country_tonga"
+msgstr "تانگا"
+
+msgid "qtn_clk_country_trinid_tobago"
+msgstr "ترینیداد و توباگو"
+
+msgid "qtn_clk_country_tunisia"
+msgstr "تونس"
+
+msgid "qtn_clk_country_turkey"
+msgstr "ترکیه"
+
+msgid "qtn_clk_country_turkmenistan"
+msgstr "ترکمنستان"
+
+msgid "qtn_clk_country_turks_caicos"
+msgstr "جزایر ترک و کیکو"
+
+msgid "qtn_clk_country_tuvalu"
+msgstr "تووالو"
+
+msgid "qtn_clk_country_uganda"
+msgstr "اوگاندا"
+
+msgid "qtn_clk_country_uk"
+msgstr "بریتانیا"
+
+msgid "qtn_clk_country_ukraine"
+msgstr "اوکراین"
+
+msgid "qtn_clk_country_uruguay"
+msgstr "اوروگوئه"
+
+msgid "qtn_clk_country_usa"
+msgstr "آمریکا"
+
+msgid "qtn_clk_country_uzbekistan"
+msgstr "ازبکستان"
+
+msgid "qtn_clk_country_vanuatu"
+msgstr "وانواتو"
+
+msgid "qtn_clk_country_vatican"
+msgstr "واتیکان"
+
+msgid "qtn_clk_country_venezuela"
+msgstr "ونزوالا"
+
+msgid "qtn_clk_country_vietnam"
+msgstr "ویتنام"
+
+msgid "qtn_clk_country_wallis_futuna"
+msgstr "جزایر والیس و فوتونا"
+
+msgid "qtn_clk_country_western_sahara"
+msgstr "صحرای غربی"
+
+msgid "qtn_clk_country_yemen"
+msgstr "یمن"
+
+msgid "qtn_clk_country_zambia"
+msgstr "زیمبیا"
+
+msgid "qtn_clk_country_zimbabwe"
+msgstr "زیمبابوه"
+
+msgid "qtn_clk_region_kiritimati"
+msgstr "کریتیماتی (جزیره کریسمس)"
+
+msgid "qtn_clk_region_macau"
+msgstr "ماکائو"
