@@ -1,0 +1,744 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.15 12:46+0300\n"
+"PO-Revision-Date: 2010-11-30 11:43+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "qtn_clk_country_afghanistan"
+msgstr "Αφγανιστάν"
+
+msgid "qtn_clk_country_albania"
+msgstr "Αλβανία"
+
+msgid "qtn_clk_country_algeria"
+msgstr "Αλγερία"
+
+msgid "qtn_clk_country_andorra"
+msgstr "Ανδόρα"
+
+msgid "qtn_clk_country_angola"
+msgstr "Αγκόλα"
+
+msgid "qtn_clk_country_anguilla"
+msgstr "Αγκουίλα"
+
+msgid "qtn_clk_country_antigua_barbuda"
+msgstr "Αντίγκουα και Μπαρμπούντα"
+
+msgid "qtn_clk_country_arab_emirates"
+msgstr "Ηνωμένα Αραβικά Εμιράτα"
+
+msgid "qtn_clk_country_argentina"
+msgstr "Αργεντινή"
+
+msgid "qtn_clk_country_armenia"
+msgstr "Αρμενία"
+
+msgid "qtn_clk_country_aruba"
+msgstr "Αρούμπα"
+
+msgid "qtn_clk_country_australia"
+msgstr "Αυστραλία"
+
+msgid "qtn_clk_country_austria"
+msgstr "Αυστρία"
+
+msgid "qtn_clk_country_azerbaijan"
+msgstr "Αζερμπαϊτζάν"
+
+msgid "qtn_clk_country_azores"
+msgstr "Αζόρες"
+
+msgid "qtn_clk_country_bahamas"
+msgstr "Μπαχάμες"
+
+msgid "qtn_clk_country_bahrain"
+msgstr "Μπαχρέιν"
+
+msgid "qtn_clk_country_bangladesh"
+msgstr "Μπαγκλαντές"
+
+msgid "qtn_clk_country_barbados"
+msgstr "Μπαρμπάντος"
+
+msgid "qtn_clk_country_belarus"
+msgstr "Λευκορωσία"
+
+msgid "qtn_clk_country_belgium"
+msgstr "Βέλγιο"
+
+msgid "qtn_clk_country_belize"
+msgstr "Μπελίζ"
+
+msgid "qtn_clk_country_benin"
+msgstr "Μπενίν"
+
+msgid "qtn_clk_country_bermuda"
+msgstr "Βερμούδες"
+
+msgid "qtn_clk_country_bhutan"
+msgstr "Μπουτάν"
+
+msgid "qtn_clk_country_biot"
+msgstr "Βρετανικό έδαφος Ινδικού Ωκεανού"
+
+msgid "qtn_clk_country_bolivia"
+msgstr "Βολιβία"
+
+msgid "qtn_clk_country_bosnia_herz"
+msgstr "Βοσνία και Ερζεγοβίνη"
+
+msgid "qtn_clk_country_botswana"
+msgstr "Μποτσουάνα"
+
+msgid "qtn_clk_country_brazil"
+msgstr "Βραζιλία"
+
+msgid "qtn_clk_country_brunei"
+msgstr "Μπρουνέι"
+
+msgid "qtn_clk_country_bulgaria"
+msgstr "Βουλγαρία"
+
+msgid "qtn_clk_country_burkina_faso"
+msgstr "Μπουρκίνα Φάσο"
+
+msgid "qtn_clk_country_burundi"
+msgstr "Μπουρούντι"
+
+msgid "qtn_clk_country_bvi"
+msgstr "Βρετανικές Παρθένοι Νήσοι"
+
+msgid "qtn_clk_country_cambodia"
+msgstr "Καμπότζη"
+
+msgid "qtn_clk_country_cameroon"
+msgstr "Καμερούν"
+
+msgid "qtn_clk_country_canada"
+msgstr "Καναδάς"
+
+msgid "qtn_clk_country_canary_islands"
+msgstr "Κανάριοι Νήσοι"
+
+msgid "qtn_clk_country_cap_verde"
+msgstr "Πράσινο Ακρωτήριο"
+
+msgid "qtn_clk_country_car"
+msgstr "Κεντροαφρικανική Δημοκρατία"
+
+msgid "qtn_clk_country_cayman_islands"
+msgstr "Νησιά Καϋμάν"
+
+msgid "qtn_clk_country_chad"
+msgstr "Τσαντ"
+
+msgid "qtn_clk_country_chile"
+msgstr "Χιλή"
+
+msgid "qtn_clk_country_china"
+msgstr "Κίνα"
+
+msgid "qtn_clk_country_christmas_islands"
+msgstr "Νήσος των Χριστουγέννων"
+
+msgid "qtn_clk_country_cocos_islands"
+msgstr "Κόκος (Κίλινγκ)"
+
+msgid "qtn_clk_country_colombia"
+msgstr "Κολομβία"
+
+msgid "qtn_clk_country_comoros"
+msgstr "Κομόρες"
+
+msgid "qtn_clk_country_cook_islands"
+msgstr "Κουκ"
+
+msgid "qtn_clk_country_costa_rica"
+msgstr "Κόστα Ρίκα"
+
+msgid "qtn_clk_country_cotedlvoire"
+msgstr "Ακτή Ελεφαντοστού"
+
+msgid "qtn_clk_country_croatia"
+msgstr "Κροατία"
+
+msgid "qtn_clk_country_cuba"
+msgstr "Κούβα"
+
+msgid "qtn_clk_country_curacao"
+msgstr "Κουρασάο"
+
+msgid "qtn_clk_country_cyprus"
+msgstr "Κύπρος"
+
+msgid "qtn_clk_country_czech_reb"
+msgstr "Τσεχία"
+
+msgid "qtn_clk_country_denmark"
+msgstr "Δανία"
+
+msgid "qtn_clk_country_djibouti"
+msgstr "Τζιμπουτί"
+
+msgid "qtn_clk_country_dominica"
+msgstr "Ντομίνικα"
+
+msgid "qtn_clk_country_dominican_reb"
+msgstr "Δομινικανή Δημοκρατία"
+
+msgid "qtn_clk_country_drc"
+msgstr "Λαϊκή Δημοκρατία του Κονγκό"
+
+msgid "qtn_clk_country_east_timor"
+msgstr "Ανατολικό Τιμόρ"
+
+msgid "qtn_clk_country_easter_island"
+msgstr "Νησί του Πάσχα"
+
+msgid "qtn_clk_country_ecuador"
+msgstr "Εκουαδόρ"
+
+msgid "qtn_clk_country_egypt"
+msgstr "Αίγυπτος"
+
+msgid "qtn_clk_country_el_salvador"
+msgstr "Ελ Σαλβαδόρ"
+
+msgid "qtn_clk_country_equatorial_guinea"
+msgstr "Ισημερινή Γουινέα"
+
+msgid "qtn_clk_country_eritrea"
+msgstr "Ερυθραία"
+
+msgid "qtn_clk_country_estonia"
+msgstr "Εσθονία"
+
+msgid "qtn_clk_country_ethiopia"
+msgstr "Αιθιοπία"
+
+msgid "qtn_clk_country_falkland"
+msgstr "Νήσοι Φώκλαντ"
+
+msgid "qtn_clk_country_faroe_islands"
+msgstr "Νήσοι Φερόε"
+
+msgid "qtn_clk_country_fiji"
+msgstr "Φίτζι"
+
+msgid "qtn_clk_country_finland"
+msgstr "Φινλανδία"
+
+msgid "qtn_clk_country_france"
+msgstr "Γαλλία"
+
+msgid "qtn_clk_country_french_guiana"
+msgstr "Γαλλική Γουιάνα"
+
+msgid "qtn_clk_country_french_polynesia"
+msgstr "Γαλλική Πολυνησία"
+
+msgid "qtn_clk_country_gabon"
+msgstr "Γκαμπόν"
+
+msgid "qtn_clk_country_galapagos_islands"
+msgstr "Γκαλαπάγκος"
+
+msgid "qtn_clk_country_gambia"
+msgstr "Γκάμπια"
+
+msgid "qtn_clk_country_georgia"
+msgstr "Γεωργία"
+
+msgid "qtn_clk_country_germany"
+msgstr "Γερμανία"
+
+msgid "qtn_clk_country_ghana"
+msgstr "Γκάνα"
+
+msgid "qtn_clk_country_gibraltar"
+msgstr "Γιβραλτάρ"
+
+msgid "qtn_clk_country_greece"
+msgstr "Ελλάδα"
+
+msgid "qtn_clk_country_greenland"
+msgstr "Γροιλανδία"
+
+msgid "qtn_clk_country_grenada"
+msgstr "Γρενάδα"
+
+msgid "qtn_clk_country_guadeloupe"
+msgstr "Γουαδελούπη"
+
+msgid "qtn_clk_country_guam"
+msgstr "Γκουάμ"
+
+msgid "qtn_clk_country_guatemala"
+msgstr "Γουατεμάλα"
+
+msgid "qtn_clk_country_guinea"
+msgstr "Γουϊνέα"
+
+msgid "qtn_clk_country_guinea_bissau"
+msgstr "Γουινέα-Μπισάου"
+
+msgid "qtn_clk_country_guyana"
+msgstr "Γουϊάνα"
+
+msgid "qtn_clk_country_haiti"
+msgstr "Αϊτή"
+
+msgid "qtn_clk_country_honduras"
+msgstr "Ονδούρα"
+
+msgid "qtn_clk_country_hong_kong"
+msgstr "Χονγκ Κονγκ"
+
+msgid "qtn_clk_country_hungary"
+msgstr "Ουγγαρία"
+
+msgid "qtn_clk_country_iceland"
+msgstr "Ισλανδία"
+
+msgid "qtn_clk_country_india"
+msgstr "Ινδία"
+
+msgid "qtn_clk_country_indonesia"
+msgstr "Ινδονησία"
+
+msgid "qtn_clk_country_iran"
+msgstr "Ιράν"
+
+msgid "qtn_clk_country_iraq"
+msgstr "Ιράκ"
+
+msgid "qtn_clk_country_ireland"
+msgstr "Ιρλανδία"
+
+msgid "qtn_clk_country_israel"
+msgstr "Ισραήλ"
+
+msgid "qtn_clk_country_italy"
+msgstr "Ιταλία"
+
+msgid "qtn_clk_country_jamaica"
+msgstr "Τζαμάικα"
+
+msgid "qtn_clk_country_japan"
+msgstr "Ιαπωνία"
+
+msgid "qtn_clk_country_jerusalem"
+msgstr "Ιερουσαλήμ"
+
+msgid "qtn_clk_country_jordan"
+msgstr "Ιορδανία"
+
+msgid "qtn_clk_country_kazakhstan"
+msgstr "Καζακστάν"
+
+msgid "qtn_clk_country_kenya"
+msgstr "Κένυα"
+
+msgid "qtn_clk_country_kerguelen"
+msgstr "Νήσοι Κεργκελέν"
+
+msgid "qtn_clk_country_kiribati"
+msgstr "Κιριμπάτι"
+
+msgid "qtn_clk_country_kuwait"
+msgstr "Κουβέιτ"
+
+msgid "qtn_clk_country_kyrgyzstan"
+msgstr "Κιργιστάν"
+
+msgid "qtn_clk_country_laos"
+msgstr "Λάος"
+
+msgid "qtn_clk_country_latvia"
+msgstr "Λετονία"
+
+msgid "qtn_clk_country_lebanon"
+msgstr "Λίβανος"
+
+msgid "qtn_clk_country_lesotho"
+msgstr "Λεσόθο"
+
+msgid "qtn_clk_country_liberia"
+msgstr "Λιβερία"
+
+msgid "qtn_clk_country_libya"
+msgstr "Λιβύη"
+
+msgid "qtn_clk_country_liechtenstein"
+msgstr "Λιχτενστάιν"
+
+msgid "qtn_clk_country_lithuania"
+msgstr "Λιθουανία"
+
+msgid "qtn_clk_country_luxembourg"
+msgstr "Λουξεμβούργο"
+
+msgid "qtn_clk_country_macedonia"
+msgstr "ΠΓΔΜ"
+
+msgid "qtn_clk_country_madagascar"
+msgstr "Μαδαγασκάρη"
+
+msgid "qtn_clk_country_madeira"
+msgstr "Μαδέρα"
+
+msgid "qtn_clk_country_malawi"
+msgstr "Μαλάουι"
+
+msgid "qtn_clk_country_malaysia"
+msgstr "Μαλαισία"
+
+msgid "qtn_clk_country_maldives"
+msgstr "Μαλδίβες"
+
+msgid "qtn_clk_country_mali"
+msgstr "Μάλι"
+
+msgid "qtn_clk_country_malta"
+msgstr "Μάλτα"
+
+msgid "qtn_clk_country_marquesas_island"
+msgstr "Νήσοι Μαρκέσας"
+
+msgid "qtn_clk_country_marshall_islands"
+msgstr "Νήσοι Μάρσαλ"
+
+msgid "qtn_clk_country_martinique"
+msgstr "Μαρτινίκα"
+
+msgid "qtn_clk_country_mauritania"
+msgstr "Μαυριτανία"
+
+msgid "qtn_clk_country_mauritius"
+msgstr "Μαυρίκιος"
+
+msgid "qtn_clk_country_mayotte"
+msgstr "Μαγιότ"
+
+msgid "qtn_clk_country_mexico"
+msgstr "Μεξικό"
+
+msgid "qtn_clk_country_micronesia"
+msgstr "Μικρονησία"
+
+msgid "qtn_clk_country_moldova"
+msgstr "Μολδαβία"
+
+msgid "qtn_clk_country_monaco"
+msgstr "Μονακό"
+
+msgid "qtn_clk_country_mongolia"
+msgstr "Μογγολία"
+
+msgid "qtn_clk_country_montenegro"
+msgstr "Μαυροβούνιο"
+
+msgid "qtn_clk_country_montserrat"
+msgstr "Μοντσερράτ"
+
+msgid "qtn_clk_country_morocco"
+msgstr "Μαρόκο"
+
+msgid "qtn_clk_country_mozambique"
+msgstr "Μοζαμβίκη"
+
+msgid "qtn_clk_country_myanmar"
+msgstr "Μιανμάρ"
+
+msgid "qtn_clk_country_n_mariana_i"
+msgstr "Βόρειες Μαριάνες Νήσοι"
+
+msgid "qtn_clk_country_namibia"
+msgstr "Ναμίμπια"
+
+msgid "qtn_clk_country_nauru"
+msgstr "Ναουρού"
+
+msgid "qtn_clk_country_nepal"
+msgstr "Νεπάλ"
+
+msgid "qtn_clk_country_netherlands"
+msgstr "Ολλανδία"
+
+msgid "qtn_clk_country_new_caledonia"
+msgstr "Νέα Καληδονία"
+
+msgid "qtn_clk_country_new_zealand"
+msgstr "Νέα Ζηλανδία"
+
+msgid "qtn_clk_country_nicaragua"
+msgstr "Νικαράγουα"
+
+msgid "qtn_clk_country_niger"
+msgstr "Νίγηρας"
+
+msgid "qtn_clk_country_nigeria"
+msgstr "Νιγηρία"
+
+msgid "qtn_clk_country_niue"
+msgstr "Νιούε"
+
+msgid "qtn_clk_country_norfolk_island"
+msgstr "Νόρφολκ"
+
+msgid "qtn_clk_country_north_korea"
+msgstr "Βόρεια Κορέα"
+
+msgid "qtn_clk_country_northern_ireland"
+msgstr "Βόρεια Ιρλανδία"
+
+msgid "qtn_clk_country_norway"
+msgstr "Νορβηγία"
+
+msgid "qtn_clk_country_oman"
+msgstr "Ομάν"
+
+msgid "qtn_clk_country_pakistan"
+msgstr "Πακιστάν"
+
+msgid "qtn_clk_country_palau"
+msgstr "Παλάου"
+
+msgid "qtn_clk_country_panama"
+msgstr "Παναμάς"
+
+msgid "qtn_clk_country_papua_new_g"
+msgstr "Παπούα Νέα Γουϊνέα"
+
+msgid "qtn_clk_country_paraguay"
+msgstr "Παραγουάη"
+
+msgid "qtn_clk_country_peru"
+msgstr "Περού"
+
+msgid "qtn_clk_country_philippines"
+msgstr "Φιλιππίνες"
+
+msgid "qtn_clk_country_phoenix_islands"
+msgstr "Νησιά Φοίνικα"
+
+msgid "qtn_clk_country_pitcairn"
+msgstr "Πίτκερν"
+
+msgid "qtn_clk_country_poland"
+msgstr "Πολωνία"
+
+msgid "qtn_clk_country_portugal"
+msgstr "Πορτογαλία"
+
+msgid "qtn_clk_country_puerto_rico"
+msgstr "Πουέρτο Ρίκο"
+
+msgid "qtn_clk_country_qatar"
+msgstr "Κατάρ"
+
+msgid "qtn_clk_country_r_congo"
+msgstr "Δημοκρατία του Κονγκό"
+
+msgid "qtn_clk_country_reunion"
+msgstr "Ρεϊνιόν"
+
+msgid "qtn_clk_country_romania"
+msgstr "Ρουμανία"
+
+msgid "qtn_clk_country_russia"
+msgstr "Ρωσία"
+
+msgid "qtn_clk_country_rwanda"
+msgstr "Ρουάντα"
+
+msgid "qtn_clk_country_saint_helena"
+msgstr "Αγία Ελένη"
+
+msgid "qtn_clk_country_samoa"
+msgstr "Σαμόα"
+
+msgid "qtn_clk_country_san_marino"
+msgstr "Σαν Μαρίνο"
+
+msgid "qtn_clk_country_sao_tome_principe"
+msgstr "Σάο Τομέ και Πρίνσιπε"
+
+msgid "qtn_clk_country_saudi_arab"
+msgstr "Σαουδική Αραβία"
+
+msgid "qtn_clk_country_senegal"
+msgstr "Σενεγάλη"
+
+msgid "qtn_clk_country_serbia"
+msgstr "Σερβία"
+
+msgid "qtn_clk_country_seychelles"
+msgstr "Σεϋχέλλες"
+
+msgid "qtn_clk_country_sierra_leone"
+msgstr "Σιέρα Λεόνε"
+
+msgid "qtn_clk_country_singapore"
+msgstr "Σιγκαπούρη"
+
+msgid "qtn_clk_country_slovakia"
+msgstr "Σλοβακία"
+
+msgid "qtn_clk_country_slovenia"
+msgstr "Σλοβενία"
+
+msgid "qtn_clk_country_solomon_is"
+msgstr "Σολομώντος"
+
+msgid "qtn_clk_country_somalia"
+msgstr "Σομαλία"
+
+msgid "qtn_clk_country_south_africa"
+msgstr "Νότια Αφρική"
+
+msgid "qtn_clk_country_south_georgia"
+msgstr "Νότια Γεωργία"
+
+msgid "qtn_clk_country_south_korea"
+msgstr "Νότια Κορέα"
+
+msgid "qtn_clk_country_spain"
+msgstr "Ισπανία"
+
+msgid "qtn_clk_country_sri_lanka"
+msgstr "Σρι Λάνκα"
+
+msgid "qtn_clk_country_st_kitts_nevis"
+msgstr "Σαιντ Κιτς και Νέβις"
+
+msgid "qtn_clk_country_st_lucia"
+msgstr "Αγία Λουκία"
+
+msgid "qtn_clk_country_st_pierre_miquelon"
+msgstr "Σαιν Πιερ και Μικελόν"
+
+msgid "qtn_clk_country_st_vincent_granadines"
+msgstr "Άγιος Βικέντιος και Γρεναδίνες"
+
+msgid "qtn_clk_country_sudan"
+msgstr "Σουδάν"
+
+msgid "qtn_clk_country_suriname"
+msgstr "Σουρινάμ"
+
+msgid "qtn_clk_country_swaziland"
+msgstr "Σουαζιλάνδη"
+
+msgid "qtn_clk_country_sweden"
+msgstr "Σουηδία"
+
+msgid "qtn_clk_country_switzerland"
+msgstr "Ελβετία"
+
+msgid "qtn_clk_country_syria"
+msgstr "Συρία"
+
+msgid "qtn_clk_country_tahiti"
+msgstr "Ταϊτή"
+
+msgid "qtn_clk_country_taiwan"
+msgstr "Ταϊβάν"
+
+msgid "qtn_clk_country_tajikistan"
+msgstr "Τατζικιστάν"
+
+msgid "qtn_clk_country_tanzania"
+msgstr "Τανζανία"
+
+msgid "qtn_clk_country_thailand"
+msgstr "Ταϊλάνδη"
+
+msgid "qtn_clk_country_togo"
+msgstr "Τόγκο"
+
+msgid "qtn_clk_country_tokelau"
+msgstr "Τοκελάου"
+
+msgid "qtn_clk_country_tonga"
+msgstr "Τόνγκα"
+
+msgid "qtn_clk_country_trinid_tobago"
+msgstr "Τρινιντάντ και Τομπάγκο"
+
+msgid "qtn_clk_country_tunisia"
+msgstr "Τυνησία"
+
+msgid "qtn_clk_country_turkey"
+msgstr "Τουρκία"
+
+msgid "qtn_clk_country_turkmenistan"
+msgstr "Τουρκμενιστάν"
+
+msgid "qtn_clk_country_turks_caicos"
+msgstr "Τερκς και Κάικος"
+
+msgid "qtn_clk_country_tuvalu"
+msgstr "Τουβαλού"
+
+msgid "qtn_clk_country_uganda"
+msgstr "Ουγκάντα"
+
+msgid "qtn_clk_country_uk"
+msgstr "Ηνωμένο Βασίλειο"
+
+msgid "qtn_clk_country_ukraine"
+msgstr "Ουκρανία"
+
+msgid "qtn_clk_country_uruguay"
+msgstr "Ουρουγουάη"
+
+msgid "qtn_clk_country_usa"
+msgstr "ΗΠΑ"
+
+msgid "qtn_clk_country_uzbekistan"
+msgstr "Ουζμπεκιστάν"
+
+msgid "qtn_clk_country_vanuatu"
+msgstr "Βανουάτου"
+
+msgid "qtn_clk_country_vatican"
+msgstr "Βατικανό"
+
+msgid "qtn_clk_country_venezuela"
+msgstr "Βενεζουέλα"
+
+msgid "qtn_clk_country_vietnam"
+msgstr "Βιετνάμ"
+
+msgid "qtn_clk_country_wallis_futuna"
+msgstr "Γουάλις και Φουτούνα"
+
+msgid "qtn_clk_country_western_sahara"
+msgstr "Δυτική Σαχάρα"
+
+msgid "qtn_clk_country_yemen"
+msgstr "Υεμένη"
+
+msgid "qtn_clk_country_zambia"
+msgstr "Ζάμπια"
+
+msgid "qtn_clk_country_zimbabwe"
+msgstr "Ζιμπάμπουε"
+
+msgid "qtn_clk_region_kiritimati"
+msgstr "Κιριτιμάτι (Νήσος των Χριστουγέννων)"
+
+msgid "qtn_clk_region_macau"
+msgstr "Μακάου"
