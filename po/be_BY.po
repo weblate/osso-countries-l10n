@@ -1,0 +1,745 @@
+# 
+# Translators:
+# Stanislau  <kasrkin@mail.by>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.15 12:46+0300\n"
+"PO-Revision-Date: 2012-05-25 16:28+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: English (US)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "qtn_clk_country_afghanistan"
+msgstr "Аўганістан"
+
+msgid "qtn_clk_country_albania"
+msgstr "Албанія"
+
+msgid "qtn_clk_country_algeria"
+msgstr "Алжыр"
+
+msgid "qtn_clk_country_andorra"
+msgstr "Андора"
+
+msgid "qtn_clk_country_angola"
+msgstr "Ангола"
+
+msgid "qtn_clk_country_anguilla"
+msgstr "Ангілья"
+
+msgid "qtn_clk_country_antigua_barbuda"
+msgstr "Антыгуа і Барбуда"
+
+msgid "qtn_clk_country_arab_emirates"
+msgstr "ААЭ"
+
+msgid "qtn_clk_country_argentina"
+msgstr "Аргентына"
+
+msgid "qtn_clk_country_armenia"
+msgstr "Арменія"
+
+msgid "qtn_clk_country_aruba"
+msgstr "Аруба"
+
+msgid "qtn_clk_country_australia"
+msgstr "Аўстралія"
+
+msgid "qtn_clk_country_austria"
+msgstr "Аўстрыя"
+
+msgid "qtn_clk_country_azerbaijan"
+msgstr "Азербайджан"
+
+msgid "qtn_clk_country_azores"
+msgstr "Азорскія астравы"
+
+msgid "qtn_clk_country_bahamas"
+msgstr "Багамы"
+
+msgid "qtn_clk_country_bahrain"
+msgstr "Бахрэйн"
+
+msgid "qtn_clk_country_bangladesh"
+msgstr "Бангладэш"
+
+msgid "qtn_clk_country_barbados"
+msgstr "Барбадос"
+
+msgid "qtn_clk_country_belarus"
+msgstr "Беларусь"
+
+msgid "qtn_clk_country_belgium"
+msgstr "Бельгія"
+
+msgid "qtn_clk_country_belize"
+msgstr "Беліз"
+
+msgid "qtn_clk_country_benin"
+msgstr "Бенін"
+
+msgid "qtn_clk_country_bermuda"
+msgstr "Бермуды"
+
+msgid "qtn_clk_country_bhutan"
+msgstr "Бутан"
+
+msgid "qtn_clk_country_biot"
+msgstr "Англійскія тэрыторыі ў Індыйскім акіяне"
+
+msgid "qtn_clk_country_bolivia"
+msgstr "Балівія"
+
+msgid "qtn_clk_country_bosnia_herz"
+msgstr "Боснія і Герцагавіна"
+
+msgid "qtn_clk_country_botswana"
+msgstr "Батсвана"
+
+msgid "qtn_clk_country_brazil"
+msgstr "Бразілія"
+
+msgid "qtn_clk_country_brunei"
+msgstr "Брунэй"
+
+msgid "qtn_clk_country_bulgaria"
+msgstr "Балгарыя"
+
+msgid "qtn_clk_country_burkina_faso"
+msgstr "Буркіна-Фасо"
+
+msgid "qtn_clk_country_burundi"
+msgstr "Бурундзі"
+
+msgid "qtn_clk_country_bvi"
+msgstr "Брытанскія Вірджынскія астравы"
+
+msgid "qtn_clk_country_cambodia"
+msgstr "Камбоджа"
+
+msgid "qtn_clk_country_cameroon"
+msgstr "Камерун"
+
+msgid "qtn_clk_country_canada"
+msgstr "Канада"
+
+msgid "qtn_clk_country_canary_islands"
+msgstr "Канарскія астравы"
+
+msgid "qtn_clk_country_cap_verde"
+msgstr "Капа Вердэ"
+
+msgid "qtn_clk_country_car"
+msgstr "Цантральнаафрыканская рэспубліка"
+
+msgid "qtn_clk_country_cayman_islands"
+msgstr "Кайманавы астравы"
+
+msgid "qtn_clk_country_chad"
+msgstr "Чад"
+
+msgid "qtn_clk_country_chile"
+msgstr "Чылі"
+
+msgid "qtn_clk_country_china"
+msgstr "Кітай"
+
+msgid "qtn_clk_country_christmas_islands"
+msgstr "Калядныя астравы"
+
+msgid "qtn_clk_country_cocos_islands"
+msgstr "Какосавыя астравы"
+
+msgid "qtn_clk_country_colombia"
+msgstr "Калумбія"
+
+msgid "qtn_clk_country_comoros"
+msgstr "Каморы"
+
+msgid "qtn_clk_country_cook_islands"
+msgstr "Астравы Кук"
+
+msgid "qtn_clk_country_costa_rica"
+msgstr "Коста-Рыка"
+
+msgid "qtn_clk_country_cotedlvoire"
+msgstr "Кот д'Івуар"
+
+msgid "qtn_clk_country_croatia"
+msgstr "Харватыя"
+
+msgid "qtn_clk_country_cuba"
+msgstr "Куба"
+
+msgid "qtn_clk_country_curacao"
+msgstr "Каракаа"
+
+msgid "qtn_clk_country_cyprus"
+msgstr "Кіпр"
+
+msgid "qtn_clk_country_czech_reb"
+msgstr "Чэшская рэспубліка"
+
+msgid "qtn_clk_country_denmark"
+msgstr "Данія"
+
+msgid "qtn_clk_country_djibouti"
+msgstr "Джыбуці"
+
+msgid "qtn_clk_country_dominica"
+msgstr "Дамініка"
+
+msgid "qtn_clk_country_dominican_reb"
+msgstr "Дамініаканская рэспубліка"
+
+msgid "qtn_clk_country_drc"
+msgstr "Дэмакратычная Рэспубліка Конга"
+
+msgid "qtn_clk_country_east_timor"
+msgstr "Усходны Тымор"
+
+msgid "qtn_clk_country_easter_island"
+msgstr "Встраў Вялікадня"
+
+msgid "qtn_clk_country_ecuador"
+msgstr "Эквадор"
+
+msgid "qtn_clk_country_egypt"
+msgstr "Егіпет"
+
+msgid "qtn_clk_country_el_salvador"
+msgstr "Эль Сальвадор"
+
+msgid "qtn_clk_country_equatorial_guinea"
+msgstr "Экватарыяльная Гвінея"
+
+msgid "qtn_clk_country_eritrea"
+msgstr "Эрытрэя"
+
+msgid "qtn_clk_country_estonia"
+msgstr "Эстонія"
+
+msgid "qtn_clk_country_ethiopia"
+msgstr "Эфіопія"
+
+msgid "qtn_clk_country_falkland"
+msgstr "Фалклендскія астравы"
+
+msgid "qtn_clk_country_faroe_islands"
+msgstr "Фар'ёрскія астравы"
+
+msgid "qtn_clk_country_fiji"
+msgstr "Фіджы"
+
+msgid "qtn_clk_country_finland"
+msgstr "Фінляндыя"
+
+msgid "qtn_clk_country_france"
+msgstr "Францыя"
+
+msgid "qtn_clk_country_french_guiana"
+msgstr "Французкая Гвіяна"
+
+msgid "qtn_clk_country_french_polynesia"
+msgstr "Французкая Палінэзія"
+
+msgid "qtn_clk_country_gabon"
+msgstr "Габон"
+
+msgid "qtn_clk_country_galapagos_islands"
+msgstr "Галапагоскія астравы"
+
+msgid "qtn_clk_country_gambia"
+msgstr "Гамбія"
+
+msgid "qtn_clk_country_georgia"
+msgstr "Грузія"
+
+msgid "qtn_clk_country_germany"
+msgstr "Нямеччына"
+
+msgid "qtn_clk_country_ghana"
+msgstr "Гана"
+
+msgid "qtn_clk_country_gibraltar"
+msgstr "Гібраалтар"
+
+msgid "qtn_clk_country_greece"
+msgstr "Грэцыя"
+
+msgid "qtn_clk_country_greenland"
+msgstr "Грынландыя"
+
+msgid "qtn_clk_country_grenada"
+msgstr "Грынада"
+
+msgid "qtn_clk_country_guadeloupe"
+msgstr "Гвадэлупа"
+
+msgid "qtn_clk_country_guam"
+msgstr "Гуам"
+
+msgid "qtn_clk_country_guatemala"
+msgstr "Гватэмала"
+
+msgid "qtn_clk_country_guinea"
+msgstr "Гвінея"
+
+msgid "qtn_clk_country_guinea_bissau"
+msgstr "Гвінея-Бісаў"
+
+msgid "qtn_clk_country_guyana"
+msgstr "Гвіяна"
+
+msgid "qtn_clk_country_haiti"
+msgstr "Гаіці"
+
+msgid "qtn_clk_country_honduras"
+msgstr "Гандурас"
+
+msgid "qtn_clk_country_hong_kong"
+msgstr "Ганг Конг"
+
+msgid "qtn_clk_country_hungary"
+msgstr "Вугоршчына"
+
+msgid "qtn_clk_country_iceland"
+msgstr "Ісландыя"
+
+msgid "qtn_clk_country_india"
+msgstr "Індыя"
+
+msgid "qtn_clk_country_indonesia"
+msgstr "Інданэзія"
+
+msgid "qtn_clk_country_iran"
+msgstr "Іран"
+
+msgid "qtn_clk_country_iraq"
+msgstr "Ірак"
+
+msgid "qtn_clk_country_ireland"
+msgstr "Ірландыя"
+
+msgid "qtn_clk_country_israel"
+msgstr "Ізраіль"
+
+msgid "qtn_clk_country_italy"
+msgstr "Італія"
+
+msgid "qtn_clk_country_jamaica"
+msgstr "Ямайка"
+
+msgid "qtn_clk_country_japan"
+msgstr "Японія"
+
+msgid "qtn_clk_country_jerusalem"
+msgstr "Ерусалім"
+
+msgid "qtn_clk_country_jordan"
+msgstr "Іярданія"
+
+msgid "qtn_clk_country_kazakhstan"
+msgstr "Казахстан"
+
+msgid "qtn_clk_country_kenya"
+msgstr "Кенія"
+
+msgid "qtn_clk_country_kerguelen"
+msgstr "Караулен"
+
+msgid "qtn_clk_country_kiribati"
+msgstr "Кірыбаці"
+
+msgid "qtn_clk_country_kuwait"
+msgstr "Кувейт"
+
+msgid "qtn_clk_country_kyrgyzstan"
+msgstr "Кыргызстан"
+
+msgid "qtn_clk_country_laos"
+msgstr "Лаос"
+
+msgid "qtn_clk_country_latvia"
+msgstr "Латвія"
+
+msgid "qtn_clk_country_lebanon"
+msgstr "Ліван"
+
+msgid "qtn_clk_country_lesotho"
+msgstr "Лесота"
+
+msgid "qtn_clk_country_liberia"
+msgstr "Ліберыя"
+
+msgid "qtn_clk_country_libya"
+msgstr "Лівія"
+
+msgid "qtn_clk_country_liechtenstein"
+msgstr "Ліхтэнштэйн"
+
+msgid "qtn_clk_country_lithuania"
+msgstr "Летува"
+
+msgid "qtn_clk_country_luxembourg"
+msgstr "Люксембург"
+
+msgid "qtn_clk_country_macedonia"
+msgstr "Македонія"
+
+msgid "qtn_clk_country_madagascar"
+msgstr "Мадагаскар"
+
+msgid "qtn_clk_country_madeira"
+msgstr "Мадэйра"
+
+msgid "qtn_clk_country_malawi"
+msgstr "Малаві"
+
+msgid "qtn_clk_country_malaysia"
+msgstr "Малайзія"
+
+msgid "qtn_clk_country_maldives"
+msgstr "Мальдзівы"
+
+msgid "qtn_clk_country_mali"
+msgstr "Малі"
+
+msgid "qtn_clk_country_malta"
+msgstr "Мальта"
+
+msgid "qtn_clk_country_marquesas_island"
+msgstr "Маркізскія астравы"
+
+msgid "qtn_clk_country_marshall_islands"
+msgstr "Маршалавы астравы"
+
+msgid "qtn_clk_country_martinique"
+msgstr "Мартыніка"
+
+msgid "qtn_clk_country_mauritania"
+msgstr "Маўрытанія"
+
+msgid "qtn_clk_country_mauritius"
+msgstr "Мартыніка"
+
+msgid "qtn_clk_country_mayotte"
+msgstr "Маёта"
+
+msgid "qtn_clk_country_mexico"
+msgstr "Мексіка"
+
+msgid "qtn_clk_country_micronesia"
+msgstr "Мікранэзія"
+
+msgid "qtn_clk_country_moldova"
+msgstr "Малдова"
+
+msgid "qtn_clk_country_monaco"
+msgstr "Манака"
+
+msgid "qtn_clk_country_mongolia"
+msgstr "Манголія"
+
+msgid "qtn_clk_country_montenegro"
+msgstr "Монтэнегра"
+
+msgid "qtn_clk_country_montserrat"
+msgstr "Мансерат"
+
+msgid "qtn_clk_country_morocco"
+msgstr "Марокка"
+
+msgid "qtn_clk_country_mozambique"
+msgstr "Мазамбік"
+
+msgid "qtn_clk_country_myanmar"
+msgstr "Міянмар"
+
+msgid "qtn_clk_country_n_mariana_i"
+msgstr "Паўночныя Марыянавыя астравы"
+
+msgid "qtn_clk_country_namibia"
+msgstr "Намібія"
+
+msgid "qtn_clk_country_nauru"
+msgstr "Науру"
+
+msgid "qtn_clk_country_nepal"
+msgstr "Непал"
+
+msgid "qtn_clk_country_netherlands"
+msgstr "Галандыя"
+
+msgid "qtn_clk_country_new_caledonia"
+msgstr "Новая Каледонія"
+
+msgid "qtn_clk_country_new_zealand"
+msgstr "Новая Зеландыя"
+
+msgid "qtn_clk_country_nicaragua"
+msgstr "Нікарагуа"
+
+msgid "qtn_clk_country_niger"
+msgstr "Нігер"
+
+msgid "qtn_clk_country_nigeria"
+msgstr "Нігерыя"
+
+msgid "qtn_clk_country_niue"
+msgstr "Ніўэ"
+
+msgid "qtn_clk_country_norfolk_island"
+msgstr "Востраў Норфолк"
+
+msgid "qtn_clk_country_north_korea"
+msgstr "КНДР"
+
+msgid "qtn_clk_country_northern_ireland"
+msgstr "Паўночная Ірландыя"
+
+msgid "qtn_clk_country_norway"
+msgstr "Нарвегія"
+
+msgid "qtn_clk_country_oman"
+msgstr "Аман"
+
+msgid "qtn_clk_country_pakistan"
+msgstr "Пакістан"
+
+msgid "qtn_clk_country_palau"
+msgstr "Палаў"
+
+msgid "qtn_clk_country_panama"
+msgstr "Панама"
+
+msgid "qtn_clk_country_papua_new_g"
+msgstr "Папуа Новая Гвінея"
+
+msgid "qtn_clk_country_paraguay"
+msgstr "Парагвай"
+
+msgid "qtn_clk_country_peru"
+msgstr "Перу"
+
+msgid "qtn_clk_country_philippines"
+msgstr "Філіпіны"
+
+msgid "qtn_clk_country_phoenix_islands"
+msgstr "Феніксавыя астравы"
+
+msgid "qtn_clk_country_pitcairn"
+msgstr "Піткаім"
+
+msgid "qtn_clk_country_poland"
+msgstr "Польшча"
+
+msgid "qtn_clk_country_portugal"
+msgstr "Партугалія"
+
+msgid "qtn_clk_country_puerto_rico"
+msgstr "Пуэрта Рыка"
+
+msgid "qtn_clk_country_qatar"
+msgstr "Катар"
+
+msgid "qtn_clk_country_r_congo"
+msgstr "Рэспубліка Конга"
+
+msgid "qtn_clk_country_reunion"
+msgstr "Рэюніан"
+
+msgid "qtn_clk_country_romania"
+msgstr "Румынія"
+
+msgid "qtn_clk_country_russia"
+msgstr "Расія"
+
+msgid "qtn_clk_country_rwanda"
+msgstr "Руанда"
+
+msgid "qtn_clk_country_saint_helena"
+msgstr "Сэнт Гелена"
+
+msgid "qtn_clk_country_samoa"
+msgstr "Самоа"
+
+msgid "qtn_clk_country_san_marino"
+msgstr "Сан-Марына"
+
+msgid "qtn_clk_country_sao_tome_principe"
+msgstr "Сан-Тамэ і Прынсіпі"
+
+msgid "qtn_clk_country_saudi_arab"
+msgstr "Саудаўская Аравія"
+
+msgid "qtn_clk_country_senegal"
+msgstr "Сенегал"
+
+msgid "qtn_clk_country_serbia"
+msgstr "Сербія"
+
+msgid "qtn_clk_country_seychelles"
+msgstr "Сэйшэльскія астравы"
+
+msgid "qtn_clk_country_sierra_leone"
+msgstr "Сьерра Ліон"
+
+msgid "qtn_clk_country_singapore"
+msgstr "Сінгапур"
+
+msgid "qtn_clk_country_slovakia"
+msgstr "Славакія"
+
+msgid "qtn_clk_country_slovenia"
+msgstr "Славенія"
+
+msgid "qtn_clk_country_solomon_is"
+msgstr "Саламонавы астравы"
+
+msgid "qtn_clk_country_somalia"
+msgstr "Самалі"
+
+msgid "qtn_clk_country_south_africa"
+msgstr "Южная Афрыка"
+
+msgid "qtn_clk_country_south_georgia"
+msgstr "Южная Джорджыя"
+
+msgid "qtn_clk_country_south_korea"
+msgstr "Карэйская Рэспубліка"
+
+msgid "qtn_clk_country_spain"
+msgstr "Іспанія"
+
+msgid "qtn_clk_country_sri_lanka"
+msgstr "Шры-Ланка"
+
+msgid "qtn_clk_country_st_kitts_nevis"
+msgstr "Сент Кітс і Невіс"
+
+msgid "qtn_clk_country_st_lucia"
+msgstr "Сент Люцыя"
+
+msgid "qtn_clk_country_st_pierre_miquelon"
+msgstr "Сент П'ер і Міккелон"
+
+msgid "qtn_clk_country_st_vincent_granadines"
+msgstr "Сент Вінсент і Греэадзін"
+
+msgid "qtn_clk_country_sudan"
+msgstr "Судан"
+
+msgid "qtn_clk_country_suriname"
+msgstr "Сурынам"
+
+msgid "qtn_clk_country_swaziland"
+msgstr "Свазілэнд"
+
+msgid "qtn_clk_country_sweden"
+msgstr "Швецыя"
+
+msgid "qtn_clk_country_switzerland"
+msgstr "Швейцарыя"
+
+msgid "qtn_clk_country_syria"
+msgstr "Сірыя"
+
+msgid "qtn_clk_country_tahiti"
+msgstr "Таіці"
+
+msgid "qtn_clk_country_taiwan"
+msgstr "Тайвань"
+
+msgid "qtn_clk_country_tajikistan"
+msgstr "Таджыкістан"
+
+msgid "qtn_clk_country_tanzania"
+msgstr "Танзанія"
+
+msgid "qtn_clk_country_thailand"
+msgstr "Тайланд"
+
+msgid "qtn_clk_country_togo"
+msgstr "Тога"
+
+msgid "qtn_clk_country_tokelau"
+msgstr "Такелаў"
+
+msgid "qtn_clk_country_tonga"
+msgstr "Тонга"
+
+msgid "qtn_clk_country_trinid_tobago"
+msgstr "Трынідат і Табага"
+
+msgid "qtn_clk_country_tunisia"
+msgstr "Туніс"
+
+msgid "qtn_clk_country_turkey"
+msgstr "Турцыя"
+
+msgid "qtn_clk_country_turkmenistan"
+msgstr "Туркменістан"
+
+msgid "qtn_clk_country_turks_caicos"
+msgstr "Цёрк і Кайкас"
+
+msgid "qtn_clk_country_tuvalu"
+msgstr "Тувалу"
+
+msgid "qtn_clk_country_uganda"
+msgstr "Уганда"
+
+msgid "qtn_clk_country_uk"
+msgstr "Аб'яднанае Каралеўства"
+
+msgid "qtn_clk_country_ukraine"
+msgstr "Украіна"
+
+msgid "qtn_clk_country_uruguay"
+msgstr "Уругвай"
+
+msgid "qtn_clk_country_usa"
+msgstr "ЗША"
+
+msgid "qtn_clk_country_uzbekistan"
+msgstr "Узбекістан"
+
+msgid "qtn_clk_country_vanuatu"
+msgstr "Вануату"
+
+msgid "qtn_clk_country_vatican"
+msgstr "Ватыкан"
+
+msgid "qtn_clk_country_venezuela"
+msgstr "Венесуэла"
+
+msgid "qtn_clk_country_vietnam"
+msgstr "В'етнам"
+
+msgid "qtn_clk_country_wallis_futuna"
+msgstr "Астравы Уоліс і Футуна"
+
+msgid "qtn_clk_country_western_sahara"
+msgstr "Заходняя сахара"
+
+msgid "qtn_clk_country_yemen"
+msgstr "Емен"
+
+msgid "qtn_clk_country_zambia"
+msgstr "Замбія"
+
+msgid "qtn_clk_country_zimbabwe"
+msgstr "Зімбабвэ"
+
+msgid "qtn_clk_region_kiritimati"
+msgstr "Кірыцімаці"
+
+msgid "qtn_clk_region_macau"
+msgstr "Макао"
