@@ -1,0 +1,744 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.15 12:46+0300\n"
+"PO-Revision-Date: 2010-11-30 11:43+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "qtn_clk_country_afghanistan"
+msgstr "아프가니스탄"
+
+msgid "qtn_clk_country_albania"
+msgstr "알바니아"
+
+msgid "qtn_clk_country_algeria"
+msgstr "알제리"
+
+msgid "qtn_clk_country_andorra"
+msgstr "안도라"
+
+msgid "qtn_clk_country_angola"
+msgstr "앙골라"
+
+msgid "qtn_clk_country_anguilla"
+msgstr "앵귈라"
+
+msgid "qtn_clk_country_antigua_barbuda"
+msgstr "앤티가 바부다"
+
+msgid "qtn_clk_country_arab_emirates"
+msgstr "아랍에미리트"
+
+msgid "qtn_clk_country_argentina"
+msgstr "아르헨티라"
+
+msgid "qtn_clk_country_armenia"
+msgstr "Armenia"
+
+msgid "qtn_clk_country_aruba"
+msgstr "Aruba"
+
+msgid "qtn_clk_country_australia"
+msgstr "오스트레일리아"
+
+msgid "qtn_clk_country_austria"
+msgstr "오스트리아"
+
+msgid "qtn_clk_country_azerbaijan"
+msgstr "아제르바이잔"
+
+msgid "qtn_clk_country_azores"
+msgstr "아조레스"
+
+msgid "qtn_clk_country_bahamas"
+msgstr "바하마"
+
+msgid "qtn_clk_country_bahrain"
+msgstr "바레인"
+
+msgid "qtn_clk_country_bangladesh"
+msgstr "방글라데시"
+
+msgid "qtn_clk_country_barbados"
+msgstr "바베이도스"
+
+msgid "qtn_clk_country_belarus"
+msgstr "벨라루스"
+
+msgid "qtn_clk_country_belgium"
+msgstr "벨기에"
+
+msgid "qtn_clk_country_belize"
+msgstr "벨리즈"
+
+msgid "qtn_clk_country_benin"
+msgstr "베냉"
+
+msgid "qtn_clk_country_bermuda"
+msgstr "Bermuda"
+
+msgid "qtn_clk_country_bhutan"
+msgstr "부탄"
+
+msgid "qtn_clk_country_biot"
+msgstr "영국령 인도양 지역"
+
+msgid "qtn_clk_country_bolivia"
+msgstr "볼리비아"
+
+msgid "qtn_clk_country_bosnia_herz"
+msgstr "보스니아 헤르체고비나"
+
+msgid "qtn_clk_country_botswana"
+msgstr "보츠와나"
+
+msgid "qtn_clk_country_brazil"
+msgstr "브라질"
+
+msgid "qtn_clk_country_brunei"
+msgstr "브루나이"
+
+msgid "qtn_clk_country_bulgaria"
+msgstr "불가리아"
+
+msgid "qtn_clk_country_burkina_faso"
+msgstr "부르키나파소"
+
+msgid "qtn_clk_country_burundi"
+msgstr "부룬디"
+
+msgid "qtn_clk_country_bvi"
+msgstr "영국령 버진아일랜드"
+
+msgid "qtn_clk_country_cambodia"
+msgstr "캄보디아"
+
+msgid "qtn_clk_country_cameroon"
+msgstr "카메룬"
+
+msgid "qtn_clk_country_canada"
+msgstr "캐나다"
+
+msgid "qtn_clk_country_canary_islands"
+msgstr "카나리아 제도"
+
+msgid "qtn_clk_country_cap_verde"
+msgstr "카보베르데"
+
+msgid "qtn_clk_country_car"
+msgstr "중앙아프리카 공화국"
+
+msgid "qtn_clk_country_cayman_islands"
+msgstr "케이맨 제도"
+
+msgid "qtn_clk_country_chad"
+msgstr "차드"
+
+msgid "qtn_clk_country_chile"
+msgstr "칠레"
+
+msgid "qtn_clk_country_china"
+msgstr "중국"
+
+msgid "qtn_clk_country_christmas_islands"
+msgstr "크리스마스 제도"
+
+msgid "qtn_clk_country_cocos_islands"
+msgstr "코코스 제도"
+
+msgid "qtn_clk_country_colombia"
+msgstr "콜롬비아"
+
+msgid "qtn_clk_country_comoros"
+msgstr "코모로"
+
+msgid "qtn_clk_country_cook_islands"
+msgstr "쿡 제도"
+
+msgid "qtn_clk_country_costa_rica"
+msgstr "코스타리카"
+
+msgid "qtn_clk_country_cotedlvoire"
+msgstr "코트디부아르"
+
+msgid "qtn_clk_country_croatia"
+msgstr "크로아티아"
+
+msgid "qtn_clk_country_cuba"
+msgstr "쿠바"
+
+msgid "qtn_clk_country_curacao"
+msgstr "큐라소"
+
+msgid "qtn_clk_country_cyprus"
+msgstr "키프로스"
+
+msgid "qtn_clk_country_czech_reb"
+msgstr "체코"
+
+msgid "qtn_clk_country_denmark"
+msgstr "덴마크"
+
+msgid "qtn_clk_country_djibouti"
+msgstr "지부티"
+
+msgid "qtn_clk_country_dominica"
+msgstr "도미니카"
+
+msgid "qtn_clk_country_dominican_reb"
+msgstr "도미니카 공화국"
+
+msgid "qtn_clk_country_drc"
+msgstr "콩고 민주 공화국"
+
+msgid "qtn_clk_country_east_timor"
+msgstr "동티모르"
+
+msgid "qtn_clk_country_easter_island"
+msgstr "이스터 제도"
+
+msgid "qtn_clk_country_ecuador"
+msgstr "에콰도르"
+
+msgid "qtn_clk_country_egypt"
+msgstr "이집트"
+
+msgid "qtn_clk_country_el_salvador"
+msgstr "엘살바도르"
+
+msgid "qtn_clk_country_equatorial_guinea"
+msgstr "적도 기니"
+
+msgid "qtn_clk_country_eritrea"
+msgstr "에리트리아"
+
+msgid "qtn_clk_country_estonia"
+msgstr "에스토니아"
+
+msgid "qtn_clk_country_ethiopia"
+msgstr "에티오피아"
+
+msgid "qtn_clk_country_falkland"
+msgstr "포클랜드 제도"
+
+msgid "qtn_clk_country_faroe_islands"
+msgstr "페로 제도"
+
+msgid "qtn_clk_country_fiji"
+msgstr "피지"
+
+msgid "qtn_clk_country_finland"
+msgstr "핀란드"
+
+msgid "qtn_clk_country_france"
+msgstr "프랑스"
+
+msgid "qtn_clk_country_french_guiana"
+msgstr "프랑스령 기아나"
+
+msgid "qtn_clk_country_french_polynesia"
+msgstr "프랑스령 폴리네시아"
+
+msgid "qtn_clk_country_gabon"
+msgstr "가봉"
+
+msgid "qtn_clk_country_galapagos_islands"
+msgstr "갈라파고스 제도"
+
+msgid "qtn_clk_country_gambia"
+msgstr "감비아"
+
+msgid "qtn_clk_country_georgia"
+msgstr "그루지야"
+
+msgid "qtn_clk_country_germany"
+msgstr "독일"
+
+msgid "qtn_clk_country_ghana"
+msgstr "가나"
+
+msgid "qtn_clk_country_gibraltar"
+msgstr "지브롤터"
+
+msgid "qtn_clk_country_greece"
+msgstr "그리스"
+
+msgid "qtn_clk_country_greenland"
+msgstr "그린란드"
+
+msgid "qtn_clk_country_grenada"
+msgstr "그레나다"
+
+msgid "qtn_clk_country_guadeloupe"
+msgstr "과들루프"
+
+msgid "qtn_clk_country_guam"
+msgstr "괌"
+
+msgid "qtn_clk_country_guatemala"
+msgstr "과테말라"
+
+msgid "qtn_clk_country_guinea"
+msgstr "기니"
+
+msgid "qtn_clk_country_guinea_bissau"
+msgstr "기니비사우"
+
+msgid "qtn_clk_country_guyana"
+msgstr "가이아나"
+
+msgid "qtn_clk_country_haiti"
+msgstr "아이티"
+
+msgid "qtn_clk_country_honduras"
+msgstr "온두라스"
+
+msgid "qtn_clk_country_hong_kong"
+msgstr "홍콩"
+
+msgid "qtn_clk_country_hungary"
+msgstr "헝가리"
+
+msgid "qtn_clk_country_iceland"
+msgstr "아이스란드"
+
+msgid "qtn_clk_country_india"
+msgstr "인도"
+
+msgid "qtn_clk_country_indonesia"
+msgstr "인도네시아"
+
+msgid "qtn_clk_country_iran"
+msgstr "이란"
+
+msgid "qtn_clk_country_iraq"
+msgstr "이라크"
+
+msgid "qtn_clk_country_ireland"
+msgstr "아일랜드"
+
+msgid "qtn_clk_country_israel"
+msgstr "이스라엘"
+
+msgid "qtn_clk_country_italy"
+msgstr "이탈리아"
+
+msgid "qtn_clk_country_jamaica"
+msgstr "자메이카"
+
+msgid "qtn_clk_country_japan"
+msgstr "일본"
+
+msgid "qtn_clk_country_jerusalem"
+msgstr "예루살렘"
+
+msgid "qtn_clk_country_jordan"
+msgstr "요르단"
+
+msgid "qtn_clk_country_kazakhstan"
+msgstr "카자흐스탄"
+
+msgid "qtn_clk_country_kenya"
+msgstr "케냐"
+
+msgid "qtn_clk_country_kerguelen"
+msgstr "케르게렌 제도"
+
+msgid "qtn_clk_country_kiribati"
+msgstr "키리바시"
+
+msgid "qtn_clk_country_kuwait"
+msgstr "쿠웨이트"
+
+msgid "qtn_clk_country_kyrgyzstan"
+msgstr "키르기스스탄"
+
+msgid "qtn_clk_country_laos"
+msgstr "라오스"
+
+msgid "qtn_clk_country_latvia"
+msgstr "라트비아"
+
+msgid "qtn_clk_country_lebanon"
+msgstr "레바논"
+
+msgid "qtn_clk_country_lesotho"
+msgstr "레소토"
+
+msgid "qtn_clk_country_liberia"
+msgstr "라이베리아"
+
+msgid "qtn_clk_country_libya"
+msgstr "리비아"
+
+msgid "qtn_clk_country_liechtenstein"
+msgstr "리히텐슈타인"
+
+msgid "qtn_clk_country_lithuania"
+msgstr "리투아니아"
+
+msgid "qtn_clk_country_luxembourg"
+msgstr "룩셈부르크"
+
+msgid "qtn_clk_country_macedonia"
+msgstr "마케도니아"
+
+msgid "qtn_clk_country_madagascar"
+msgstr "마다가스카르"
+
+msgid "qtn_clk_country_madeira"
+msgstr "마데이라"
+
+msgid "qtn_clk_country_malawi"
+msgstr "말라위"
+
+msgid "qtn_clk_country_malaysia"
+msgstr "말레이시아"
+
+msgid "qtn_clk_country_maldives"
+msgstr "몰디브"
+
+msgid "qtn_clk_country_mali"
+msgstr "말리"
+
+msgid "qtn_clk_country_malta"
+msgstr "몰타"
+
+msgid "qtn_clk_country_marquesas_island"
+msgstr "마르케사스 제도"
+
+msgid "qtn_clk_country_marshall_islands"
+msgstr "마샬 제도"
+
+msgid "qtn_clk_country_martinique"
+msgstr "마르티니크"
+
+msgid "qtn_clk_country_mauritania"
+msgstr "모리타니"
+
+msgid "qtn_clk_country_mauritius"
+msgstr "모리셔스"
+
+msgid "qtn_clk_country_mayotte"
+msgstr "마요트"
+
+msgid "qtn_clk_country_mexico"
+msgstr "멕시코"
+
+msgid "qtn_clk_country_micronesia"
+msgstr "미크로네시아"
+
+msgid "qtn_clk_country_moldova"
+msgstr "몰도바"
+
+msgid "qtn_clk_country_monaco"
+msgstr "모나코"
+
+msgid "qtn_clk_country_mongolia"
+msgstr "몽골"
+
+msgid "qtn_clk_country_montenegro"
+msgstr "몬테네그로"
+
+msgid "qtn_clk_country_montserrat"
+msgstr "몬트세렛"
+
+msgid "qtn_clk_country_morocco"
+msgstr "모로코"
+
+msgid "qtn_clk_country_mozambique"
+msgstr "모잠비크"
+
+msgid "qtn_clk_country_myanmar"
+msgstr "미얀마"
+
+msgid "qtn_clk_country_n_mariana_i"
+msgstr "북 마리아나 제도"
+
+msgid "qtn_clk_country_namibia"
+msgstr "나미비아"
+
+msgid "qtn_clk_country_nauru"
+msgstr "나우루"
+
+msgid "qtn_clk_country_nepal"
+msgstr "네팔"
+
+msgid "qtn_clk_country_netherlands"
+msgstr "네델란드"
+
+msgid "qtn_clk_country_new_caledonia"
+msgstr "누벨칼레도니"
+
+msgid "qtn_clk_country_new_zealand"
+msgstr "뉴질랜드"
+
+msgid "qtn_clk_country_nicaragua"
+msgstr "니카라과"
+
+msgid "qtn_clk_country_niger"
+msgstr "니제르"
+
+msgid "qtn_clk_country_nigeria"
+msgstr "나이지리아"
+
+msgid "qtn_clk_country_niue"
+msgstr "니우에"
+
+msgid "qtn_clk_country_norfolk_island"
+msgstr "노퍽 제도"
+
+msgid "qtn_clk_country_north_korea"
+msgstr "북한"
+
+msgid "qtn_clk_country_northern_ireland"
+msgstr "북아일랜드"
+
+msgid "qtn_clk_country_norway"
+msgstr "노르웨이"
+
+msgid "qtn_clk_country_oman"
+msgstr "오만"
+
+msgid "qtn_clk_country_pakistan"
+msgstr "파키스탄"
+
+msgid "qtn_clk_country_palau"
+msgstr "팔라우"
+
+msgid "qtn_clk_country_panama"
+msgstr "파나마"
+
+msgid "qtn_clk_country_papua_new_g"
+msgstr "파푸아 뉴기니"
+
+msgid "qtn_clk_country_paraguay"
+msgstr "파라과이"
+
+msgid "qtn_clk_country_peru"
+msgstr "페루"
+
+msgid "qtn_clk_country_philippines"
+msgstr "필리핀"
+
+msgid "qtn_clk_country_phoenix_islands"
+msgstr "피닉스 제도"
+
+msgid "qtn_clk_country_pitcairn"
+msgstr "핏케언 제도"
+
+msgid "qtn_clk_country_poland"
+msgstr "폴란드"
+
+msgid "qtn_clk_country_portugal"
+msgstr "포르투갈"
+
+msgid "qtn_clk_country_puerto_rico"
+msgstr "푸에트리코"
+
+msgid "qtn_clk_country_qatar"
+msgstr "키타르"
+
+msgid "qtn_clk_country_r_congo"
+msgstr "콩고"
+
+msgid "qtn_clk_country_reunion"
+msgstr "리유니온"
+
+msgid "qtn_clk_country_romania"
+msgstr "루마니아"
+
+msgid "qtn_clk_country_russia"
+msgstr "러시아"
+
+msgid "qtn_clk_country_rwanda"
+msgstr "르완다"
+
+msgid "qtn_clk_country_saint_helena"
+msgstr "세인트 헬레나"
+
+msgid "qtn_clk_country_samoa"
+msgstr "사모아"
+
+msgid "qtn_clk_country_san_marino"
+msgstr "산마리노"
+
+msgid "qtn_clk_country_sao_tome_principe"
+msgstr "상투메 프린시페"
+
+msgid "qtn_clk_country_saudi_arab"
+msgstr "사우디아라비아"
+
+msgid "qtn_clk_country_senegal"
+msgstr "세네갈"
+
+msgid "qtn_clk_country_serbia"
+msgstr "세르비아"
+
+msgid "qtn_clk_country_seychelles"
+msgstr "세이셸"
+
+msgid "qtn_clk_country_sierra_leone"
+msgstr "시에라리온"
+
+msgid "qtn_clk_country_singapore"
+msgstr "싱가폴"
+
+msgid "qtn_clk_country_slovakia"
+msgstr "슬로바키아"
+
+msgid "qtn_clk_country_slovenia"
+msgstr "슬로베니아"
+
+msgid "qtn_clk_country_solomon_is"
+msgstr "솔로몬 제도"
+
+msgid "qtn_clk_country_somalia"
+msgstr "소말리아"
+
+msgid "qtn_clk_country_south_africa"
+msgstr "남아프리카 공화국"
+
+msgid "qtn_clk_country_south_georgia"
+msgstr "남그루지야"
+
+msgid "qtn_clk_country_south_korea"
+msgstr "대한민국"
+
+msgid "qtn_clk_country_spain"
+msgstr "스페인"
+
+msgid "qtn_clk_country_sri_lanka"
+msgstr "스리랑카"
+
+msgid "qtn_clk_country_st_kitts_nevis"
+msgstr "세인트키츠 네비스"
+
+msgid "qtn_clk_country_st_lucia"
+msgstr "세인트 루시아"
+
+msgid "qtn_clk_country_st_pierre_miquelon"
+msgstr "생피에르 미클롱"
+
+msgid "qtn_clk_country_st_vincent_granadines"
+msgstr "세인트빈센트 그레나딘"
+
+msgid "qtn_clk_country_sudan"
+msgstr "수단"
+
+msgid "qtn_clk_country_suriname"
+msgstr "수리남"
+
+msgid "qtn_clk_country_swaziland"
+msgstr "스와질란드"
+
+msgid "qtn_clk_country_sweden"
+msgstr "스웨덴"
+
+msgid "qtn_clk_country_switzerland"
+msgstr "스위스"
+
+msgid "qtn_clk_country_syria"
+msgstr "시리아"
+
+msgid "qtn_clk_country_tahiti"
+msgstr "타이티"
+
+msgid "qtn_clk_country_taiwan"
+msgstr "대만"
+
+msgid "qtn_clk_country_tajikistan"
+msgstr "자티키스탄"
+
+msgid "qtn_clk_country_tanzania"
+msgstr "탄자니아"
+
+msgid "qtn_clk_country_thailand"
+msgstr "태국"
+
+msgid "qtn_clk_country_togo"
+msgstr "토고"
+
+msgid "qtn_clk_country_tokelau"
+msgstr "토켈라우"
+
+msgid "qtn_clk_country_tonga"
+msgstr "통가"
+
+msgid "qtn_clk_country_trinid_tobago"
+msgstr "트리니다드 토바고"
+
+msgid "qtn_clk_country_tunisia"
+msgstr "튀니지"
+
+msgid "qtn_clk_country_turkey"
+msgstr "터키"
+
+msgid "qtn_clk_country_turkmenistan"
+msgstr "투르크메니스탄"
+
+msgid "qtn_clk_country_turks_caicos"
+msgstr "터크스 케이커스 제도"
+
+msgid "qtn_clk_country_tuvalu"
+msgstr "투발루"
+
+msgid "qtn_clk_country_uganda"
+msgstr "우간다"
+
+msgid "qtn_clk_country_uk"
+msgstr "영국"
+
+msgid "qtn_clk_country_ukraine"
+msgstr "우크라이나"
+
+msgid "qtn_clk_country_uruguay"
+msgstr "우르과이"
+
+msgid "qtn_clk_country_usa"
+msgstr "미국"
+
+msgid "qtn_clk_country_uzbekistan"
+msgstr "우즈베키스탄"
+
+msgid "qtn_clk_country_vanuatu"
+msgstr "바누아투"
+
+msgid "qtn_clk_country_vatican"
+msgstr "바티칸"
+
+msgid "qtn_clk_country_venezuela"
+msgstr "베네수엘라"
+
+msgid "qtn_clk_country_vietnam"
+msgstr "베트남"
+
+msgid "qtn_clk_country_wallis_futuna"
+msgstr "월리스 푸투나 제도"
+
+msgid "qtn_clk_country_western_sahara"
+msgstr "서사하라"
+
+msgid "qtn_clk_country_yemen"
+msgstr "예멘"
+
+msgid "qtn_clk_country_zambia"
+msgstr "잠비아"
+
+msgid "qtn_clk_country_zimbabwe"
+msgstr "짐바브웨"
+
+msgid "qtn_clk_region_kiritimati"
+msgstr "키리티마티 (크리스마스 제도)"
+
+msgid "qtn_clk_region_macau"
+msgstr "마카오"
