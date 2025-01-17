@@ -1,0 +1,742 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-cities 20091015124643\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2009.10.15 12:46+0300\n"
+"PO-Revision-Date: 2009.10.15 12:46+0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "qtn_clk_country_afghanistan"
+msgstr ""
+
+msgid "qtn_clk_country_albania"
+msgstr ""
+
+msgid "qtn_clk_country_algeria"
+msgstr ""
+
+msgid "qtn_clk_country_andorra"
+msgstr ""
+
+msgid "qtn_clk_country_angola"
+msgstr ""
+
+msgid "qtn_clk_country_anguilla"
+msgstr ""
+
+msgid "qtn_clk_country_antigua_barbuda"
+msgstr ""
+
+msgid "qtn_clk_country_arab_emirates"
+msgstr ""
+
+msgid "qtn_clk_country_argentina"
+msgstr ""
+
+msgid "qtn_clk_country_armenia"
+msgstr ""
+
+msgid "qtn_clk_country_aruba"
+msgstr ""
+
+msgid "qtn_clk_country_australia"
+msgstr ""
+
+msgid "qtn_clk_country_austria"
+msgstr ""
+
+msgid "qtn_clk_country_azerbaijan"
+msgstr ""
+
+msgid "qtn_clk_country_azores"
+msgstr ""
+
+msgid "qtn_clk_country_bahamas"
+msgstr ""
+
+msgid "qtn_clk_country_bahrain"
+msgstr ""
+
+msgid "qtn_clk_country_bangladesh"
+msgstr ""
+
+msgid "qtn_clk_country_barbados"
+msgstr ""
+
+msgid "qtn_clk_country_belarus"
+msgstr ""
+
+msgid "qtn_clk_country_belgium"
+msgstr ""
+
+msgid "qtn_clk_country_belize"
+msgstr ""
+
+msgid "qtn_clk_country_benin"
+msgstr ""
+
+msgid "qtn_clk_country_bermuda"
+msgstr ""
+
+msgid "qtn_clk_country_bhutan"
+msgstr ""
+
+msgid "qtn_clk_country_biot"
+msgstr ""
+
+msgid "qtn_clk_country_bolivia"
+msgstr ""
+
+msgid "qtn_clk_country_bosnia_herz"
+msgstr ""
+
+msgid "qtn_clk_country_botswana"
+msgstr ""
+
+msgid "qtn_clk_country_brazil"
+msgstr ""
+
+msgid "qtn_clk_country_brunei"
+msgstr ""
+
+msgid "qtn_clk_country_bulgaria"
+msgstr ""
+
+msgid "qtn_clk_country_burkina_faso"
+msgstr ""
+
+msgid "qtn_clk_country_burundi"
+msgstr ""
+
+msgid "qtn_clk_country_bvi"
+msgstr ""
+
+msgid "qtn_clk_country_cambodia"
+msgstr ""
+
+msgid "qtn_clk_country_cameroon"
+msgstr ""
+
+msgid "qtn_clk_country_canada"
+msgstr ""
+
+msgid "qtn_clk_country_canary_islands"
+msgstr ""
+
+msgid "qtn_clk_country_cap_verde"
+msgstr ""
+
+msgid "qtn_clk_country_car"
+msgstr ""
+
+msgid "qtn_clk_country_cayman_islands"
+msgstr ""
+
+msgid "qtn_clk_country_chad"
+msgstr ""
+
+msgid "qtn_clk_country_chile"
+msgstr ""
+
+msgid "qtn_clk_country_china"
+msgstr ""
+
+msgid "qtn_clk_country_christmas_islands"
+msgstr ""
+
+msgid "qtn_clk_country_cocos_islands"
+msgstr ""
+
+msgid "qtn_clk_country_colombia"
+msgstr ""
+
+msgid "qtn_clk_country_comoros"
+msgstr ""
+
+msgid "qtn_clk_country_cook_islands"
+msgstr ""
+
+msgid "qtn_clk_country_costa_rica"
+msgstr ""
+
+msgid "qtn_clk_country_cotedlvoire"
+msgstr ""
+
+msgid "qtn_clk_country_croatia"
+msgstr ""
+
+msgid "qtn_clk_country_cuba"
+msgstr ""
+
+msgid "qtn_clk_country_curacao"
+msgstr ""
+
+msgid "qtn_clk_country_cyprus"
+msgstr ""
+
+msgid "qtn_clk_country_czech_reb"
+msgstr ""
+
+msgid "qtn_clk_country_denmark"
+msgstr ""
+
+msgid "qtn_clk_country_djibouti"
+msgstr ""
+
+msgid "qtn_clk_country_dominica"
+msgstr ""
+
+msgid "qtn_clk_country_dominican_reb"
+msgstr ""
+
+msgid "qtn_clk_country_drc"
+msgstr ""
+
+msgid "qtn_clk_country_east_timor"
+msgstr ""
+
+msgid "qtn_clk_country_easter_island"
+msgstr ""
+
+msgid "qtn_clk_country_ecuador"
+msgstr ""
+
+msgid "qtn_clk_country_egypt"
+msgstr ""
+
+msgid "qtn_clk_country_el_salvador"
+msgstr ""
+
+msgid "qtn_clk_country_equatorial_guinea"
+msgstr ""
+
+msgid "qtn_clk_country_eritrea"
+msgstr ""
+
+msgid "qtn_clk_country_estonia"
+msgstr ""
+
+msgid "qtn_clk_country_ethiopia"
+msgstr ""
+
+msgid "qtn_clk_country_falkland"
+msgstr ""
+
+msgid "qtn_clk_country_faroe_islands"
+msgstr ""
+
+msgid "qtn_clk_country_fiji"
+msgstr ""
+
+msgid "qtn_clk_country_finland"
+msgstr ""
+
+msgid "qtn_clk_country_france"
+msgstr ""
+
+msgid "qtn_clk_country_french_guiana"
+msgstr ""
+
+msgid "qtn_clk_country_french_polynesia"
+msgstr ""
+
+msgid "qtn_clk_country_gabon"
+msgstr ""
+
+msgid "qtn_clk_country_galapagos_islands"
+msgstr ""
+
+msgid "qtn_clk_country_gambia"
+msgstr ""
+
+msgid "qtn_clk_country_georgia"
+msgstr ""
+
+msgid "qtn_clk_country_germany"
+msgstr ""
+
+msgid "qtn_clk_country_ghana"
+msgstr ""
+
+msgid "qtn_clk_country_gibraltar"
+msgstr ""
+
+msgid "qtn_clk_country_greece"
+msgstr ""
+
+msgid "qtn_clk_country_greenland"
+msgstr ""
+
+msgid "qtn_clk_country_grenada"
+msgstr ""
+
+msgid "qtn_clk_country_guadeloupe"
+msgstr ""
+
+msgid "qtn_clk_country_guam"
+msgstr ""
+
+msgid "qtn_clk_country_guatemala"
+msgstr ""
+
+msgid "qtn_clk_country_guinea"
+msgstr ""
+
+msgid "qtn_clk_country_guinea_bissau"
+msgstr ""
+
+msgid "qtn_clk_country_guyana"
+msgstr ""
+
+msgid "qtn_clk_country_haiti"
+msgstr ""
+
+msgid "qtn_clk_country_honduras"
+msgstr ""
+
+msgid "qtn_clk_country_hong_kong"
+msgstr ""
+
+msgid "qtn_clk_country_hungary"
+msgstr ""
+
+msgid "qtn_clk_country_iceland"
+msgstr ""
+
+msgid "qtn_clk_country_india"
+msgstr ""
+
+msgid "qtn_clk_country_indonesia"
+msgstr ""
+
+msgid "qtn_clk_country_iran"
+msgstr ""
+
+msgid "qtn_clk_country_iraq"
+msgstr ""
+
+msgid "qtn_clk_country_ireland"
+msgstr ""
+
+msgid "qtn_clk_country_israel"
+msgstr ""
+
+msgid "qtn_clk_country_italy"
+msgstr ""
+
+msgid "qtn_clk_country_jamaica"
+msgstr ""
+
+msgid "qtn_clk_country_japan"
+msgstr ""
+
+msgid "qtn_clk_country_jerusalem"
+msgstr ""
+
+msgid "qtn_clk_country_jordan"
+msgstr ""
+
+msgid "qtn_clk_country_kazakhstan"
+msgstr ""
+
+msgid "qtn_clk_country_kenya"
+msgstr ""
+
+msgid "qtn_clk_country_kerguelen"
+msgstr ""
+
+msgid "qtn_clk_country_kiribati"
+msgstr ""
+
+msgid "qtn_clk_country_kuwait"
+msgstr ""
+
+msgid "qtn_clk_country_kyrgyzstan"
+msgstr ""
+
+msgid "qtn_clk_country_laos"
+msgstr ""
+
+msgid "qtn_clk_country_latvia"
+msgstr ""
+
+msgid "qtn_clk_country_lebanon"
+msgstr ""
+
+msgid "qtn_clk_country_lesotho"
+msgstr ""
+
+msgid "qtn_clk_country_liberia"
+msgstr ""
+
+msgid "qtn_clk_country_libya"
+msgstr ""
+
+msgid "qtn_clk_country_liechtenstein"
+msgstr ""
+
+msgid "qtn_clk_country_lithuania"
+msgstr ""
+
+msgid "qtn_clk_country_luxembourg"
+msgstr ""
+
+msgid "qtn_clk_country_macedonia"
+msgstr ""
+
+msgid "qtn_clk_country_madagascar"
+msgstr ""
+
+msgid "qtn_clk_country_madeira"
+msgstr ""
+
+msgid "qtn_clk_country_malawi"
+msgstr ""
+
+msgid "qtn_clk_country_malaysia"
+msgstr ""
+
+msgid "qtn_clk_country_maldives"
+msgstr ""
+
+msgid "qtn_clk_country_mali"
+msgstr ""
+
+msgid "qtn_clk_country_malta"
+msgstr ""
+
+msgid "qtn_clk_country_marquesas_island"
+msgstr ""
+
+msgid "qtn_clk_country_marshall_islands"
+msgstr ""
+
+msgid "qtn_clk_country_martinique"
+msgstr ""
+
+msgid "qtn_clk_country_mauritania"
+msgstr ""
+
+msgid "qtn_clk_country_mauritius"
+msgstr ""
+
+msgid "qtn_clk_country_mayotte"
+msgstr ""
+
+msgid "qtn_clk_country_mexico"
+msgstr ""
+
+msgid "qtn_clk_country_micronesia"
+msgstr ""
+
+msgid "qtn_clk_country_moldova"
+msgstr ""
+
+msgid "qtn_clk_country_monaco"
+msgstr ""
+
+msgid "qtn_clk_country_mongolia"
+msgstr ""
+
+msgid "qtn_clk_country_montenegro"
+msgstr ""
+
+msgid "qtn_clk_country_montserrat"
+msgstr ""
+
+msgid "qtn_clk_country_morocco"
+msgstr ""
+
+msgid "qtn_clk_country_mozambique"
+msgstr ""
+
+msgid "qtn_clk_country_myanmar"
+msgstr ""
+
+msgid "qtn_clk_country_n_mariana_i"
+msgstr ""
+
+msgid "qtn_clk_country_namibia"
+msgstr ""
+
+msgid "qtn_clk_country_nauru"
+msgstr ""
+
+msgid "qtn_clk_country_nepal"
+msgstr ""
+
+msgid "qtn_clk_country_netherlands"
+msgstr ""
+
+msgid "qtn_clk_country_new_caledonia"
+msgstr ""
+
+msgid "qtn_clk_country_new_zealand"
+msgstr ""
+
+msgid "qtn_clk_country_nicaragua"
+msgstr ""
+
+msgid "qtn_clk_country_niger"
+msgstr ""
+
+msgid "qtn_clk_country_nigeria"
+msgstr ""
+
+msgid "qtn_clk_country_niue"
+msgstr ""
+
+msgid "qtn_clk_country_norfolk_island"
+msgstr ""
+
+msgid "qtn_clk_country_north_korea"
+msgstr ""
+
+msgid "qtn_clk_country_northern_ireland"
+msgstr ""
+
+msgid "qtn_clk_country_norway"
+msgstr ""
+
+msgid "qtn_clk_country_oman"
+msgstr ""
+
+msgid "qtn_clk_country_pakistan"
+msgstr ""
+
+msgid "qtn_clk_country_palau"
+msgstr ""
+
+msgid "qtn_clk_country_panama"
+msgstr ""
+
+msgid "qtn_clk_country_papua_new_g"
+msgstr ""
+
+msgid "qtn_clk_country_paraguay"
+msgstr ""
+
+msgid "qtn_clk_country_peru"
+msgstr ""
+
+msgid "qtn_clk_country_philippines"
+msgstr ""
+
+msgid "qtn_clk_country_phoenix_islands"
+msgstr ""
+
+msgid "qtn_clk_country_pitcairn"
+msgstr ""
+
+msgid "qtn_clk_country_poland"
+msgstr ""
+
+msgid "qtn_clk_country_portugal"
+msgstr ""
+
+msgid "qtn_clk_country_puerto_rico"
+msgstr ""
+
+msgid "qtn_clk_country_qatar"
+msgstr ""
+
+msgid "qtn_clk_country_r_congo"
+msgstr ""
+
+msgid "qtn_clk_country_reunion"
+msgstr ""
+
+msgid "qtn_clk_country_romania"
+msgstr ""
+
+msgid "qtn_clk_country_russia"
+msgstr ""
+
+msgid "qtn_clk_country_rwanda"
+msgstr ""
+
+msgid "qtn_clk_country_saint_helena"
+msgstr ""
+
+msgid "qtn_clk_country_samoa"
+msgstr ""
+
+msgid "qtn_clk_country_san_marino"
+msgstr ""
+
+msgid "qtn_clk_country_sao_tome_principe"
+msgstr ""
+
+msgid "qtn_clk_country_saudi_arab"
+msgstr ""
+
+msgid "qtn_clk_country_senegal"
+msgstr ""
+
+msgid "qtn_clk_country_serbia"
+msgstr ""
+
+msgid "qtn_clk_country_seychelles"
+msgstr ""
+
+msgid "qtn_clk_country_sierra_leone"
+msgstr ""
+
+msgid "qtn_clk_country_singapore"
+msgstr ""
+
+msgid "qtn_clk_country_slovakia"
+msgstr ""
+
+msgid "qtn_clk_country_slovenia"
+msgstr ""
+
+msgid "qtn_clk_country_solomon_is"
+msgstr ""
+
+msgid "qtn_clk_country_somalia"
+msgstr ""
+
+msgid "qtn_clk_country_south_africa"
+msgstr ""
+
+msgid "qtn_clk_country_south_georgia"
+msgstr ""
+
+msgid "qtn_clk_country_south_korea"
+msgstr ""
+
+msgid "qtn_clk_country_spain"
+msgstr ""
+
+msgid "qtn_clk_country_sri_lanka"
+msgstr ""
+
+msgid "qtn_clk_country_st_kitts_nevis"
+msgstr ""
+
+msgid "qtn_clk_country_st_lucia"
+msgstr ""
+
+msgid "qtn_clk_country_st_pierre_miquelon"
+msgstr ""
+
+msgid "qtn_clk_country_st_vincent_granadines"
+msgstr ""
+
+msgid "qtn_clk_country_sudan"
+msgstr ""
+
+msgid "qtn_clk_country_suriname"
+msgstr ""
+
+msgid "qtn_clk_country_swaziland"
+msgstr ""
+
+msgid "qtn_clk_country_sweden"
+msgstr ""
+
+msgid "qtn_clk_country_switzerland"
+msgstr ""
+
+msgid "qtn_clk_country_syria"
+msgstr ""
+
+msgid "qtn_clk_country_tahiti"
+msgstr ""
+
+msgid "qtn_clk_country_taiwan"
+msgstr ""
+
+msgid "qtn_clk_country_tajikistan"
+msgstr ""
+
+msgid "qtn_clk_country_tanzania"
+msgstr ""
+
+msgid "qtn_clk_country_thailand"
+msgstr ""
+
+msgid "qtn_clk_country_togo"
+msgstr ""
+
+msgid "qtn_clk_country_tokelau"
+msgstr ""
+
+msgid "qtn_clk_country_tonga"
+msgstr ""
+
+msgid "qtn_clk_country_trinid_tobago"
+msgstr ""
+
+msgid "qtn_clk_country_tunisia"
+msgstr ""
+
+msgid "qtn_clk_country_turkey"
+msgstr ""
+
+msgid "qtn_clk_country_turkmenistan"
+msgstr ""
+
+msgid "qtn_clk_country_turks_caicos"
+msgstr ""
+
+msgid "qtn_clk_country_tuvalu"
+msgstr ""
+
+msgid "qtn_clk_country_uganda"
+msgstr ""
+
+msgid "qtn_clk_country_uk"
+msgstr ""
+
+msgid "qtn_clk_country_ukraine"
+msgstr ""
+
+msgid "qtn_clk_country_uruguay"
+msgstr ""
+
+msgid "qtn_clk_country_usa"
+msgstr ""
+
+msgid "qtn_clk_country_uzbekistan"
+msgstr ""
+
+msgid "qtn_clk_country_vanuatu"
+msgstr ""
+
+msgid "qtn_clk_country_vatican"
+msgstr ""
+
+msgid "qtn_clk_country_venezuela"
+msgstr ""
+
+msgid "qtn_clk_country_vietnam"
+msgstr ""
+
+msgid "qtn_clk_country_wallis_futuna"
+msgstr ""
+
+msgid "qtn_clk_country_western_sahara"
+msgstr ""
+
+msgid "qtn_clk_country_yemen"
+msgstr ""
+
+msgid "qtn_clk_country_zambia"
+msgstr ""
+
+msgid "qtn_clk_country_zimbabwe"
+msgstr ""
+
+msgid "qtn_clk_region_kiritimati"
+msgstr ""
+
+msgid "qtn_clk_region_macau"
+msgstr ""
